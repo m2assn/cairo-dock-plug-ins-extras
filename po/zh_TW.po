@@ -5,37 +5,36 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: cairo-dock-plug-ins\n"
+"Project-Id-Version: cairo-dock-plug-ins-extras\n"
 "Report-Msgid-Bugs-To: fabounet@glx-dock.org\n"
 "POT-Creation-Date: 2014-10-19 00:23+0000\n"
-"PO-Revision-Date: 2012-09-10 02:27+0000\n"
-"Last-Translator: Matthieu Baerts <matttbe@gmail.com>\n"
+"PO-Revision-Date: 2023-11-17 17:31+0800\n"
+"Last-Translator: m2assn <a0913622922@gmail.com>\n"
 "Language-Team: Traditional Chinese <zh_TW@li.org>\n"
+"Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "X-Launchpad-Export-Date: 2014-10-19 06:40+0000\n"
-"X-Generator: Launchpad (build 17196)\n"
-"Language: \n"
-"X-Poedit-Bookmarks: 1393,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #: ../GnoMenu/GnoMenu:105
-msgid ""
-"GnoMenu is not installed. Please install it before you run this applet."
-msgstr ""
+msgid "GnoMenu is not installed. Please install it before you run this applet."
+msgstr "未安裝 GnoMenu。 請在運行此小程式之前安裝它。"
 
 #: ../GnoMenu/GnoMenu:143
 msgid "GnoMenu's settings"
-msgstr ""
+msgstr "GnoMenu 的設置"
 
 #: ../GnoMenu/GnoMenu:146
 msgid "About"
-msgstr ""
+msgstr "關於"
 
 #: ../GnoMenu/GnoMenu:149 ../Cardapio/Cardapio:115 ../Lancelot/Lancelot:123
 #: ../MintMenu/MintMenu:165
 msgid "Edit Menus"
-msgstr ""
+msgstr "編輯選單"
 
 #: ../GnoMenu/messages:1 ../GnoMenu/messages:3 ../Calendar/messages:1
 #: ../Calendar/messages:3 ../Cardapio/messages:1 ../Cardapio/messages:3
@@ -62,10 +61,10 @@ msgstr "圖示"
 #: ../Google/messages:5 ../GTG/messages:5 ../HDDtemperature/messages:13
 #: ../KTorrent/messages:5 ../Lancelot/messages:5 ../Liferea/messages:5
 #: ../MintMenu/messages:5 ../Moon/messages:5
-#: ../Notifications_history/messages:5 ../Pidgin/messages:5
-#: ../Quote/messages:5 ../Screensaver_inhibitor/messages:5
-#: ../Translator/messages:5 ../Transmission/messages:5 ../Twitter/messages:5
-#: ../WebSearch/messages:3 ../WindowsKiller/messages:5 ../Xchat/messages:5
+#: ../Notifications_history/messages:5 ../Pidgin/messages:5 ../Quote/messages:5
+#: ../Screensaver_inhibitor/messages:5 ../Translator/messages:5
+#: ../Transmission/messages:5 ../Twitter/messages:5 ../WebSearch/messages:3
+#: ../WindowsKiller/messages:5 ../Xchat/messages:5
 msgid "Name of the dock it belongs to:"
 msgstr "它屬於哪個 Dock："
 
@@ -74,10 +73,10 @@ msgstr "它屬於哪個 Dock："
 #: ../Google/messages:7 ../GTG/messages:7 ../HDDtemperature/messages:7
 #: ../KTorrent/messages:7 ../Lancelot/messages:7 ../Liferea/messages:7
 #: ../MintMenu/messages:7 ../Moon/messages:7
-#: ../Notifications_history/messages:7 ../Pidgin/messages:7
-#: ../Quote/messages:9 ../Screensaver_inhibitor/messages:7
-#: ../Translator/messages:7 ../Transmission/messages:7 ../Twitter/messages:7
-#: ../WebSearch/messages:5 ../WindowsKiller/messages:7 ../Xchat/messages:7
+#: ../Notifications_history/messages:7 ../Pidgin/messages:7 ../Quote/messages:9
+#: ../Screensaver_inhibitor/messages:7 ../Translator/messages:7
+#: ../Transmission/messages:7 ../Twitter/messages:7 ../WebSearch/messages:5
+#: ../WindowsKiller/messages:7 ../Xchat/messages:7
 msgid "Name of the icon as it will appear in its caption in the dock:"
 msgstr "圖示的名稱，它將出現在 Dock 的圖示名稱上面顯示此名稱："
 
@@ -91,7 +90,7 @@ msgstr "圖示的名稱，它將出現在 Dock 的圖示名稱上面顯示此名
 #: ../Translator/messages:9 ../Transmission/messages:9 ../Twitter/messages:9
 #: ../WebSearch/messages:7 ../WindowsKiller/messages:9 ../Xchat/messages:9
 msgid "Default"
-msgstr ""
+msgstr "預設編碼"
 
 #: ../GnoMenu/messages:11 ../Calendar/messages:11 ../Cardapio/messages:11
 #: ../CpuWatcher/messages:11 ../Deluge/messages:11 ../Google/messages:11
@@ -111,9 +110,8 @@ msgstr "顯示"
 #: ../Moon/messages:13 ../Notifications_history/messages:13
 #: ../Notifications_history/messages:107 ../Pidgin/messages:13
 #: ../Quote/messages:15 ../Screensaver_inhibitor/messages:11
-#: ../Translator/messages:13 ../Transmission/messages:13
-#: ../Twitter/messages:13 ../WebSearch/messages:11
-#: ../WindowsKiller/messages:13 ../Xchat/messages:13
+#: ../Translator/messages:13 ../Transmission/messages:13 ../Twitter/messages:13
+#: ../WebSearch/messages:11 ../WindowsKiller/messages:13 ../Xchat/messages:13
 msgid "Image filename:"
 msgstr "圖檔的名稱："
 
@@ -124,11 +122,10 @@ msgstr "圖檔的名稱："
 #: ../MintMenu/messages:15 ../Moon/messages:15
 #: ../Notifications_history/messages:15 ../Pidgin/messages:15
 #: ../Quote/messages:17 ../Screensaver_inhibitor/messages:15
-#: ../Translator/messages:15 ../Transmission/messages:15
-#: ../Twitter/messages:15 ../WebSearch/messages:13
-#: ../WindowsKiller/messages:15 ../Xchat/messages:15
+#: ../Translator/messages:15 ../Transmission/messages:15 ../Twitter/messages:15
+#: ../WebSearch/messages:13 ../WindowsKiller/messages:15 ../Xchat/messages:15
 msgid "Set to 0 to use the default applet size"
-msgstr "設定為 0 使用預設的大小。"
+msgstr "設定為 0 使用預設的大小"
 
 #: ../GnoMenu/messages:17 ../Calendar/messages:17 ../Cardapio/messages:17
 #: ../CpuWatcher/messages:17 ../Deluge/messages:17 ../Gmail/messages:13
@@ -137,9 +134,8 @@ msgstr "設定為 0 使用預設的大小。"
 #: ../MintMenu/messages:17 ../Moon/messages:17
 #: ../Notifications_history/messages:17 ../Pidgin/messages:17
 #: ../Quote/messages:19 ../Screensaver_inhibitor/messages:17
-#: ../Translator/messages:17 ../Transmission/messages:17
-#: ../Twitter/messages:17 ../WebSearch/messages:15
-#: ../WindowsKiller/messages:17 ../Xchat/messages:17
+#: ../Translator/messages:17 ../Transmission/messages:17 ../Twitter/messages:17
+#: ../WebSearch/messages:15 ../WindowsKiller/messages:17 ../Xchat/messages:17
 msgid "Desired icon size for this applet"
 msgstr "此面板程式的圖示大小"
 
@@ -150,9 +146,8 @@ msgstr "此面板程式的圖示大小"
 #: ../MintMenu/messages:19 ../Moon/messages:19
 #: ../Notifications_history/messages:19 ../Pidgin/messages:19
 #: ../Quote/messages:21 ../Screensaver_inhibitor/messages:19
-#: ../Translator/messages:19 ../Transmission/messages:19
-#: ../Twitter/messages:19 ../WebSearch/messages:17
-#: ../WindowsKiller/messages:19 ../Xchat/messages:19
+#: ../Translator/messages:19 ../Transmission/messages:19 ../Twitter/messages:19
+#: ../WebSearch/messages:17 ../WindowsKiller/messages:19 ../Xchat/messages:19
 msgid "Desklet"
 msgstr "桌面小工具"
 
@@ -176,7 +171,9 @@ msgstr "位置"
 msgid ""
 "If locked, the desklet cannot be moved by simply dragging it with the left "
 "mouse button. It can still be moved with ALT + left-click."
-msgstr "假如鎖定了，桌面小工具就不能夠簡單的用拖動的方式移動。然而您還是可以用 ALT + 左鍵拖動 的方式來移動。"
+msgstr ""
+"假如鎖定了，桌面小工具就不能夠簡單的用拖動的方式移動。然而您還是可以用 ALT + "
+"左鍵拖動 的方式來移動。"
 
 #: ../GnoMenu/messages:25 ../Calendar/messages:25 ../Cardapio/messages:25
 #: ../CpuWatcher/messages:25 ../Deluge/messages:25 ../Gmail/messages:31
@@ -198,15 +195,17 @@ msgstr "鎖定位置？"
 msgid ""
 "Depending on your WindowManager, you may be able to resize this with ALT + "
 "middle-click or ALT + left-click."
-msgstr "以您的視窗管理員設定為主，您也可以改變尺寸例如以 ALT + 滑鼠中鍵點擊 或者是 ALT + 左鍵點擊。"
+msgstr ""
+"以您的視窗管理員設定為主，您也可以改變尺寸例如以 ALT + 滑鼠中鍵點擊 或者是 "
+"ALT + 左鍵點擊。"
 
 #: ../GnoMenu/messages:29 ../Calendar/messages:29 ../Cardapio/messages:29
 #: ../CpuWatcher/messages:29 ../Deluge/messages:29 ../Gmail/messages:35
 #: ../Google/messages:29 ../GTG/messages:29 ../KTorrent/messages:29
 #: ../Lancelot/messages:29 ../Liferea/messages:29 ../MintMenu/messages:29
 #: ../Pidgin/messages:29 ../Quote/messages:31 ../Transmission/messages:29
-#: ../Twitter/messages:29 ../WebSearch/messages:27
-#: ../WindowsKiller/messages:29 ../Xchat/messages:29
+#: ../Twitter/messages:29 ../WebSearch/messages:27 ../WindowsKiller/messages:29
+#: ../Xchat/messages:29
 msgid "Desklet dimensions (width x height):"
 msgstr "桌面小工具的尺寸(寬 x 高)："
 
@@ -215,20 +214,22 @@ msgstr "桌面小工具的尺寸(寬 x 高)："
 #: ../Google/messages:31 ../GTG/messages:31 ../KTorrent/messages:31
 #: ../Lancelot/messages:31 ../Liferea/messages:31 ../MintMenu/messages:31
 #: ../Pidgin/messages:31 ../Quote/messages:33 ../Transmission/messages:31
-#: ../Twitter/messages:31 ../WebSearch/messages:29
-#: ../WindowsKiller/messages:31 ../Xchat/messages:31
+#: ../Twitter/messages:31 ../WebSearch/messages:29 ../WindowsKiller/messages:31
+#: ../Xchat/messages:31
 msgid ""
 "Depending on your WindowManager, you may be able to move this with ALT + "
 "left-click.. Negative values are counted from the right/bottom of the screen"
-msgstr "放置在您的視窗管理員當中，您也可以利用 ALT+滑鼠左鍵 來移動它， 負值的計算是從螢幕的右下方開始。"
+msgstr ""
+"放置在您的視窗管理員當中，您也可以利用 ALT+滑鼠左鍵 來移動它， 負值的計算是從"
+"螢幕的右下方開始"
 
 #: ../GnoMenu/messages:33 ../Calendar/messages:33 ../Cardapio/messages:33
 #: ../CpuWatcher/messages:33 ../Deluge/messages:33 ../Gmail/messages:39
 #: ../Google/messages:33 ../GTG/messages:33 ../KTorrent/messages:33
 #: ../Lancelot/messages:33 ../Liferea/messages:33 ../MintMenu/messages:33
 #: ../Pidgin/messages:33 ../Quote/messages:35 ../Transmission/messages:33
-#: ../Twitter/messages:33 ../WebSearch/messages:31
-#: ../WindowsKiller/messages:33 ../Xchat/messages:33
+#: ../Twitter/messages:33 ../WebSearch/messages:31 ../WindowsKiller/messages:33
+#: ../Xchat/messages:33
 msgid "Desklet position (x, y):"
 msgstr "桌面小工具的位置( X軸 ; Y軸 )："
 
@@ -242,7 +243,8 @@ msgstr "桌面小工具的位置( X軸 ; Y軸 )："
 msgid ""
 "You can quickly rotate the desklet with the mouse, by dragging the little "
 "buttons on its left and top sides."
-msgstr "在桌面面板程式左上方的小按鈕，您可以用滑鼠拖動它來快速的旋轉桌面面板程式。"
+msgstr ""
+"在桌面面板程式左上方的小按鈕，您可以用滑鼠拖動它來快速的旋轉桌面面板程式。"
 
 #: ../GnoMenu/messages:37 ../Calendar/messages:37 ../Cardapio/messages:37
 #: ../CpuWatcher/messages:37 ../Deluge/messages:37 ../Gmail/messages:43
@@ -269,8 +271,8 @@ msgstr "可見度"
 #: ../Google/messages:41 ../GTG/messages:41 ../KTorrent/messages:41
 #: ../Lancelot/messages:41 ../Liferea/messages:41 ../MintMenu/messages:41
 #: ../Pidgin/messages:41 ../Quote/messages:43 ../Transmission/messages:41
-#: ../Twitter/messages:41 ../WebSearch/messages:39
-#: ../WindowsKiller/messages:41 ../Xchat/messages:41
+#: ../Twitter/messages:41 ../WebSearch/messages:39 ../WindowsKiller/messages:41
+#: ../Xchat/messages:41
 msgid "Is detached from the dock"
 msgstr "與 Dock 分離開來"
 
@@ -279,8 +281,8 @@ msgstr "與 Dock 分離開來"
 #: ../Google/messages:43 ../GTG/messages:43 ../KTorrent/messages:43
 #: ../Lancelot/messages:43 ../Liferea/messages:43 ../MintMenu/messages:43
 #: ../Pidgin/messages:43 ../Quote/messages:45 ../Transmission/messages:43
-#: ../Twitter/messages:43 ../WebSearch/messages:41
-#: ../WindowsKiller/messages:43 ../Xchat/messages:43
+#: ../Twitter/messages:43 ../WebSearch/messages:41 ../WindowsKiller/messages:43
+#: ../Xchat/messages:43
 msgid "Visibility:"
 msgstr "能見度："
 
@@ -291,9 +293,8 @@ msgstr "能見度："
 #: ../MintMenu/messages:45 ../Moon/messages:33
 #: ../Notifications_history/messages:35 ../Pidgin/messages:45
 #: ../Quote/messages:47 ../Screensaver_inhibitor/messages:35
-#: ../Translator/messages:47 ../Transmission/messages:45
-#: ../Twitter/messages:45 ../WebSearch/messages:43
-#: ../WindowsKiller/messages:45 ../Xchat/messages:45
+#: ../Translator/messages:47 ../Transmission/messages:45 ../Twitter/messages:45
+#: ../WebSearch/messages:43 ../WindowsKiller/messages:45 ../Xchat/messages:45
 msgid "Normal"
 msgstr "一般"
 
@@ -304,9 +305,8 @@ msgstr "一般"
 #: ../MintMenu/messages:47 ../Moon/messages:35
 #: ../Notifications_history/messages:37 ../Pidgin/messages:47
 #: ../Quote/messages:49 ../Screensaver_inhibitor/messages:37
-#: ../Translator/messages:49 ../Transmission/messages:47
-#: ../Twitter/messages:47 ../WebSearch/messages:45
-#: ../WindowsKiller/messages:47 ../Xchat/messages:47
+#: ../Translator/messages:49 ../Transmission/messages:47 ../Twitter/messages:47
+#: ../WebSearch/messages:45 ../WindowsKiller/messages:47 ../Xchat/messages:47
 msgid "Keep above"
 msgstr "保持在上"
 
@@ -317,9 +317,8 @@ msgstr "保持在上"
 #: ../MintMenu/messages:49 ../Moon/messages:37
 #: ../Notifications_history/messages:39 ../Pidgin/messages:49
 #: ../Quote/messages:51 ../Screensaver_inhibitor/messages:39
-#: ../Translator/messages:51 ../Transmission/messages:49
-#: ../Twitter/messages:49 ../WebSearch/messages:47
-#: ../WindowsKiller/messages:49 ../Xchat/messages:49
+#: ../Translator/messages:51 ../Transmission/messages:49 ../Twitter/messages:49
+#: ../WebSearch/messages:47 ../WindowsKiller/messages:49 ../Xchat/messages:49
 msgid "Keep below"
 msgstr "保持在下"
 
@@ -328,8 +327,8 @@ msgstr "保持在下"
 #: ../Google/messages:51 ../GTG/messages:51 ../KTorrent/messages:51
 #: ../Lancelot/messages:51 ../Liferea/messages:51 ../MintMenu/messages:51
 #: ../Pidgin/messages:51 ../Quote/messages:53 ../Transmission/messages:51
-#: ../Twitter/messages:51 ../WebSearch/messages:49
-#: ../WindowsKiller/messages:51 ../Xchat/messages:51
+#: ../Twitter/messages:51 ../WebSearch/messages:49 ../WindowsKiller/messages:51
+#: ../Xchat/messages:51
 msgid "Keep on widget layer"
 msgstr "保持在 Widget 層"
 
@@ -340,9 +339,8 @@ msgstr "保持在 Widget 層"
 #: ../MintMenu/messages:53 ../Moon/messages:41
 #: ../Notifications_history/messages:43 ../Pidgin/messages:53
 #: ../Quote/messages:55 ../Screensaver_inhibitor/messages:43
-#: ../Translator/messages:55 ../Transmission/messages:53
-#: ../Twitter/messages:53 ../WebSearch/messages:51
-#: ../WindowsKiller/messages:53 ../Xchat/messages:53
+#: ../Translator/messages:55 ../Transmission/messages:53 ../Twitter/messages:53
+#: ../WebSearch/messages:51 ../WindowsKiller/messages:53 ../Xchat/messages:53
 msgid "Reserve space"
 msgstr "保留空間"
 
@@ -351,8 +349,8 @@ msgstr "保留空間"
 #: ../Google/messages:55 ../GTG/messages:55 ../KTorrent/messages:55
 #: ../Lancelot/messages:55 ../Liferea/messages:55 ../MintMenu/messages:55
 #: ../Pidgin/messages:55 ../Quote/messages:57 ../Transmission/messages:55
-#: ../Twitter/messages:55 ../WebSearch/messages:53
-#: ../WindowsKiller/messages:55 ../Xchat/messages:55
+#: ../Twitter/messages:55 ../WebSearch/messages:53 ../WindowsKiller/messages:55
+#: ../Xchat/messages:55
 msgid "Should be visible on all desktops?"
 msgstr "全部的桌面都可以看得到嗎？"
 
@@ -374,8 +372,8 @@ msgstr "裝飾"
 #: ../Google/messages:59 ../GTG/messages:59 ../KTorrent/messages:59
 #: ../Lancelot/messages:59 ../Liferea/messages:59 ../MintMenu/messages:59
 #: ../Pidgin/messages:59 ../Quote/messages:61 ../Transmission/messages:59
-#: ../Twitter/messages:59 ../WebSearch/messages:57
-#: ../WindowsKiller/messages:59 ../Xchat/messages:59
+#: ../Twitter/messages:59 ../WebSearch/messages:57 ../WindowsKiller/messages:59
+#: ../Xchat/messages:59
 msgid "Choose 'Custom decorations' to define your own decorations below."
 msgstr "在下方選擇 \"自定義裝飾\" 來定義您想要的裝飾。"
 
@@ -384,8 +382,8 @@ msgstr "在下方選擇 \"自定義裝飾\" 來定義您想要的裝飾。"
 #: ../Google/messages:61 ../GTG/messages:61 ../KTorrent/messages:61
 #: ../Lancelot/messages:61 ../Liferea/messages:61 ../MintMenu/messages:61
 #: ../Pidgin/messages:61 ../Quote/messages:63 ../Transmission/messages:61
-#: ../Twitter/messages:61 ../WebSearch/messages:59
-#: ../WindowsKiller/messages:61 ../Xchat/messages:61
+#: ../Twitter/messages:61 ../WebSearch/messages:59 ../WindowsKiller/messages:61
+#: ../Xchat/messages:61
 msgid "Choose a decoration theme for this desklet:"
 msgstr "選擇桌面小工具的裝飾主題："
 
@@ -394,8 +392,8 @@ msgstr "選擇桌面小工具的裝飾主題："
 #: ../Google/messages:63 ../GTG/messages:63 ../KTorrent/messages:63
 #: ../Lancelot/messages:63 ../Liferea/messages:63 ../MintMenu/messages:63
 #: ../Pidgin/messages:63 ../Quote/messages:65 ../Transmission/messages:63
-#: ../Twitter/messages:63 ../WebSearch/messages:61
-#: ../WindowsKiller/messages:63 ../Xchat/messages:63
+#: ../Twitter/messages:63 ../WebSearch/messages:61 ../WindowsKiller/messages:63
+#: ../Xchat/messages:63
 msgid ""
 "Image to be displayed below drawings, e.g. a frame. Leave empty for no image."
 msgstr "這是顯示在桌面面板程式下方的圖形，就像是相框一樣。不使用請空白。"
@@ -407,9 +405,8 @@ msgstr "這是顯示在桌面面板程式下方的圖形，就像是相框一樣
 #: ../MintMenu/messages:65 ../Moon/messages:61
 #: ../Notifications_history/messages:63 ../Pidgin/messages:65
 #: ../Quote/messages:67 ../Screensaver_inhibitor/messages:63
-#: ../Translator/messages:67 ../Transmission/messages:65
-#: ../Twitter/messages:65 ../WebSearch/messages:63
-#: ../WindowsKiller/messages:65 ../Xchat/messages:65
+#: ../Translator/messages:67 ../Transmission/messages:65 ../Twitter/messages:65
+#: ../WebSearch/messages:63 ../WindowsKiller/messages:65 ../Xchat/messages:65
 msgid "Background image:"
 msgstr "背景影像："
 
@@ -418,8 +415,8 @@ msgstr "背景影像："
 #: ../Google/messages:67 ../GTG/messages:67 ../KTorrent/messages:67
 #: ../Lancelot/messages:67 ../Liferea/messages:67 ../MintMenu/messages:67
 #: ../Pidgin/messages:67 ../Quote/messages:69 ../Transmission/messages:67
-#: ../Twitter/messages:67 ../WebSearch/messages:65
-#: ../WindowsKiller/messages:67 ../Xchat/messages:67
+#: ../Twitter/messages:67 ../WebSearch/messages:65 ../WindowsKiller/messages:67
+#: ../Xchat/messages:67
 msgid "Background transparency:"
 msgstr "背景透明度："
 
@@ -428,8 +425,8 @@ msgstr "背景透明度："
 #: ../Google/messages:69 ../GTG/messages:69 ../KTorrent/messages:69
 #: ../Lancelot/messages:69 ../Liferea/messages:69 ../MintMenu/messages:69
 #: ../Pidgin/messages:69 ../Quote/messages:71 ../Transmission/messages:69
-#: ../Twitter/messages:69 ../WebSearch/messages:67
-#: ../WindowsKiller/messages:69 ../Xchat/messages:69
+#: ../Twitter/messages:69 ../WebSearch/messages:67 ../WindowsKiller/messages:69
+#: ../Xchat/messages:69
 msgid "in pixels. Use this to adjust the left position of drawings."
 msgstr "以像素為單位，可以調整位於左邊時的位置。"
 
@@ -438,8 +435,8 @@ msgstr "以像素為單位，可以調整位於左邊時的位置。"
 #: ../Google/messages:71 ../GTG/messages:71 ../KTorrent/messages:71
 #: ../Lancelot/messages:71 ../Liferea/messages:71 ../MintMenu/messages:71
 #: ../Pidgin/messages:71 ../Quote/messages:73 ../Transmission/messages:71
-#: ../Twitter/messages:71 ../WebSearch/messages:69
-#: ../WindowsKiller/messages:71 ../Xchat/messages:71
+#: ../Twitter/messages:71 ../WebSearch/messages:69 ../WindowsKiller/messages:71
+#: ../Xchat/messages:71
 msgid "Left offset:"
 msgstr "左邊的位移量："
 
@@ -448,8 +445,8 @@ msgstr "左邊的位移量："
 #: ../Google/messages:73 ../GTG/messages:73 ../KTorrent/messages:73
 #: ../Lancelot/messages:73 ../Liferea/messages:73 ../MintMenu/messages:73
 #: ../Pidgin/messages:73 ../Quote/messages:75 ../Transmission/messages:73
-#: ../Twitter/messages:73 ../WebSearch/messages:71
-#: ../WindowsKiller/messages:73 ../Xchat/messages:73
+#: ../Twitter/messages:73 ../WebSearch/messages:71 ../WindowsKiller/messages:73
+#: ../Xchat/messages:73
 msgid "in pixels. Use this to adjust the top position of drawings."
 msgstr "以像素為單位，可以調整位於頂部時的位置。"
 
@@ -458,8 +455,8 @@ msgstr "以像素為單位，可以調整位於頂部時的位置。"
 #: ../Google/messages:75 ../GTG/messages:75 ../KTorrent/messages:75
 #: ../Lancelot/messages:75 ../Liferea/messages:75 ../MintMenu/messages:75
 #: ../Pidgin/messages:75 ../Quote/messages:77 ../Transmission/messages:75
-#: ../Twitter/messages:75 ../WebSearch/messages:73
-#: ../WindowsKiller/messages:75 ../Xchat/messages:75
+#: ../Twitter/messages:75 ../WebSearch/messages:73 ../WindowsKiller/messages:75
+#: ../Xchat/messages:75
 msgid "Top offset:"
 msgstr "頂部位移量："
 
@@ -468,8 +465,8 @@ msgstr "頂部位移量："
 #: ../Google/messages:77 ../GTG/messages:77 ../KTorrent/messages:77
 #: ../Lancelot/messages:77 ../Liferea/messages:77 ../MintMenu/messages:77
 #: ../Pidgin/messages:77 ../Quote/messages:79 ../Transmission/messages:77
-#: ../Twitter/messages:77 ../WebSearch/messages:75
-#: ../WindowsKiller/messages:77 ../Xchat/messages:77
+#: ../Twitter/messages:77 ../WebSearch/messages:75 ../WindowsKiller/messages:77
+#: ../Xchat/messages:77
 msgid "in pixels. Use this to adjust the right position of drawings."
 msgstr "以像素為單位，可以調整位於右邊時的位置。"
 
@@ -478,8 +475,8 @@ msgstr "以像素為單位，可以調整位於右邊時的位置。"
 #: ../Google/messages:79 ../GTG/messages:79 ../KTorrent/messages:79
 #: ../Lancelot/messages:79 ../Liferea/messages:79 ../MintMenu/messages:79
 #: ../Pidgin/messages:79 ../Quote/messages:81 ../Transmission/messages:79
-#: ../Twitter/messages:79 ../WebSearch/messages:77
-#: ../WindowsKiller/messages:79 ../Xchat/messages:79
+#: ../Twitter/messages:79 ../WebSearch/messages:77 ../WindowsKiller/messages:79
+#: ../Xchat/messages:79
 msgid "Right offset:"
 msgstr "右邊偏移量："
 
@@ -488,8 +485,8 @@ msgstr "右邊偏移量："
 #: ../Google/messages:81 ../GTG/messages:81 ../KTorrent/messages:81
 #: ../Lancelot/messages:81 ../Liferea/messages:81 ../MintMenu/messages:81
 #: ../Pidgin/messages:81 ../Quote/messages:83 ../Transmission/messages:81
-#: ../Twitter/messages:81 ../WebSearch/messages:79
-#: ../WindowsKiller/messages:81 ../Xchat/messages:81
+#: ../Twitter/messages:81 ../WebSearch/messages:79 ../WindowsKiller/messages:81
+#: ../Xchat/messages:81
 msgid "in pixels. Use this to adjust the bottom position of drawings."
 msgstr "以像素為單位，可以調整位於底部時的位置。"
 
@@ -498,8 +495,8 @@ msgstr "以像素為單位，可以調整位於底部時的位置。"
 #: ../Google/messages:83 ../GTG/messages:83 ../KTorrent/messages:83
 #: ../Lancelot/messages:83 ../Liferea/messages:83 ../MintMenu/messages:83
 #: ../Pidgin/messages:83 ../Quote/messages:85 ../Transmission/messages:83
-#: ../Twitter/messages:83 ../WebSearch/messages:81
-#: ../WindowsKiller/messages:83 ../Xchat/messages:83
+#: ../Twitter/messages:83 ../WebSearch/messages:81 ../WindowsKiller/messages:83
+#: ../Xchat/messages:83
 msgid "Bottom offset:"
 msgstr "底部偏移量："
 
@@ -508,8 +505,8 @@ msgstr "底部偏移量："
 #: ../Google/messages:85 ../GTG/messages:85 ../KTorrent/messages:85
 #: ../Lancelot/messages:85 ../Liferea/messages:85 ../MintMenu/messages:85
 #: ../Pidgin/messages:85 ../Quote/messages:87 ../Transmission/messages:85
-#: ../Twitter/messages:85 ../WebSearch/messages:83
-#: ../WindowsKiller/messages:85 ../Xchat/messages:85
+#: ../Twitter/messages:85 ../WebSearch/messages:83 ../WindowsKiller/messages:85
+#: ../Xchat/messages:85
 msgid ""
 "Image to be displayed above the drawings, e.g. a reflection. Leave empty for "
 "no image."
@@ -522,9 +519,8 @@ msgstr "這是顯示在桌面面板程式之上的圖形，就像是反射一樣
 #: ../MintMenu/messages:87 ../Moon/messages:83
 #: ../Notifications_history/messages:85 ../Pidgin/messages:87
 #: ../Quote/messages:89 ../Screensaver_inhibitor/messages:85
-#: ../Translator/messages:89 ../Transmission/messages:87
-#: ../Twitter/messages:87 ../WebSearch/messages:85
-#: ../WindowsKiller/messages:87 ../Xchat/messages:87
+#: ../Translator/messages:89 ../Transmission/messages:87 ../Twitter/messages:87
+#: ../WebSearch/messages:85 ../WindowsKiller/messages:87 ../Xchat/messages:87
 msgid "Foreground image:"
 msgstr "前景圖片："
 
@@ -533,8 +529,8 @@ msgstr "前景圖片："
 #: ../Google/messages:89 ../GTG/messages:89 ../KTorrent/messages:89
 #: ../Lancelot/messages:89 ../Liferea/messages:89 ../MintMenu/messages:89
 #: ../Pidgin/messages:89 ../Quote/messages:91 ../Transmission/messages:89
-#: ../Twitter/messages:89 ../WebSearch/messages:87
-#: ../WindowsKiller/messages:89 ../Xchat/messages:89
+#: ../Twitter/messages:89 ../WebSearch/messages:87 ../WindowsKiller/messages:89
+#: ../Xchat/messages:89
 msgid "Foreground tansparency:"
 msgstr "前景透明度："
 
@@ -553,7 +549,7 @@ msgstr "設置"
 #: ../GnoMenu/messages:93 ../Cardapio/messages:93 ../Lancelot/messages:93
 #: ../MintMenu/messages:93
 msgid "Shortkey to pop up the menu:"
-msgstr ""
+msgstr "彈出式選單快捷鍵："
 
 #: ../GnoMenu/messages:96
 msgid ""
@@ -562,18 +558,22 @@ msgid ""
 "Right-click lets you access to the preferences window.\n"
 "<u>Note:</u> you need to install GnoMenu."
 msgstr ""
+"此小程式可讓您在 Dock 中使用 <b>GnoMenu 選單</b>。\n"
+"點擊該圖示可彈出式選單。\n"
+"右鍵單擊可存取首選項視窗。\n"
+"<u>筆記：</u>您需要安裝 GnoMenu。"
 
 #: ../Calendar/messages:93
 msgid "Applications"
-msgstr ""
+msgstr "應用程式"
 
 #: ../Calendar/messages:95
 msgid "Command to launch your favourite calendar application (middle click):"
-msgstr ""
+msgstr "用於啟動您最喜歡的日曆應用程式的命令（單擊滑鼠中鍵）："
 
 #: ../Calendar/messages:97
 msgid "Command to execute on dropping a file onto the calendar-icon:"
-msgstr ""
+msgstr "將檔案拖曳到日曆圖示上時執行的命令："
 
 #: ../Calendar/messages:99
 msgid "Behaviour"
@@ -581,25 +581,25 @@ msgstr "動作方式"
 
 #: ../Calendar/messages:101
 msgid "Theme"
-msgstr ""
+msgstr "佈景主題"
 
 #: ../Calendar/messages:105
 msgid "Faenza"
-msgstr ""
+msgstr "Faenza 法恩札"
 
 #: ../Calendar/messages:107
 msgid "Custom"
-msgstr ""
+msgstr "自訂的"
 
 #: ../Calendar/messages:109
 msgid ""
 "The path to a script to generate an icon. Leave it empty to use the default "
 "one."
-msgstr ""
+msgstr "用於產生圖示的腳本的路徑。 將其留空以使用預設值。"
 
 #: ../Calendar/messages:111
 msgid "Icon custom script:"
-msgstr ""
+msgstr "圖示自訂腳本："
 
 #: ../Calendar/messages:114
 msgid ""
@@ -610,15 +610,21 @@ msgid ""
 "Scroll Down displays the events of the day\n"
 "Dropping a file on the icon launches the calendar application and import it."
 msgstr ""
+"該小程式將顯示目前日期。\n"
+"左鍵點選顯示日曆\n"
+"中鍵點擊啟動您選擇的日曆應用程式\n"
+"向上捲動顯示下個月的日曆\n"
+"向下捲動顯示當天的事件\n"
+"將文件放在圖示上會啟動日曆應用程式並將其匯入。"
 
 #: ../Calendar/messages:116
 msgid "Calendar"
-msgstr ""
+msgstr "行事曆"
 
 #: ../Cardapio/Cardapio:50
 msgid ""
 "Cardapio is not installed. Please install it before you run this applet."
-msgstr ""
+msgstr "Cardapio 未安裝。 請在運行此小程式之前安裝它。"
 
 #: ../Cardapio/messages:96
 msgid ""
@@ -627,14 +633,17 @@ msgid ""
 "Right-click lets you edit the menus.<u>Note:</u> you need to install "
 "Cardapio."
 msgstr ""
+"此小程式可讓您在 Dock 中新增 <b>Cardapio 選單</b>。\n"
+"單擊該圖示可彈出式選單。\n"
+"右鍵點選可編輯選單。<u>筆記：</u>您需要安裝 選單Cardapio。"
 
 #: ../CpuWatcher/messages:93
 msgid "in ms"
-msgstr ""
+msgstr "以毫秒為單位"
 
 #: ../CpuWatcher/messages:95
 msgid "Refresh time :"
-msgstr ""
+msgstr "刷新時間："
 
 #: ../CpuWatcher/messages:98
 msgid ""
@@ -644,143 +653,148 @@ msgid ""
 "You can obtain an average of the main core\n"
 "(in the label) with a middle click on the icon."
 msgstr ""
+"這是 Cpu 觀察者小程式。\n"
+"它可以讓你密切注意你的CPU負載\n"
+"（以及子選單中的每個核心！）\n"
+"可以獲得主核心的平均值\n"
+"（在標籤中）在圖示上按一下滑鼠中鍵。"
 
 #: ../CpuWatcher/messages:100
 msgid "CPU Watcher"
-msgstr ""
+msgstr "CPU觀察者"
 
 #: ../Deluge/Deluge:211
 msgid "Deluge is not running, or is not responding to us."
-msgstr ""
+msgstr "Deluge 沒有運行，或者沒有響應我們。"
 
 #: ../Deluge/Deluge:218 ../KTorrent/KTorrent:221
 #: ../Transmission/Transmission:307
 msgid "Progress:"
-msgstr ""
+msgstr "進步："
 
 #: ../Deluge/Deluge:220 ../Transmission/Transmission:310
 msgid "paused"
-msgstr ""
+msgstr "暫停"
 
 #: ../Deluge/Deluge:224 ../KTorrent/KTorrent:237
 #: ../Transmission/Transmission:320
 msgid "Time remaining:"
-msgstr ""
+msgstr "剩餘的時間："
 
 #: ../Deluge/Deluge:229 ../KTorrent/KTorrent:242
 #: ../Transmission/Transmission:129
 msgid "days"
-msgstr ""
+msgstr "天的歷史記錄檔"
 
 #: ../Deluge/Deluge:231 ../Deluge/Deluge:237 ../KTorrent/KTorrent:244
 #: ../KTorrent/KTorrent:250 ../Transmission/Transmission:131
 #: ../Transmission/Transmission:134 ../Transmission/Transmission:144
 msgid "h"
-msgstr ""
+msgstr "時"
 
 #: ../Deluge/Deluge:239 ../KTorrent/KTorrent:252
 #: ../Transmission/Transmission:149
 msgid "min"
-msgstr ""
+msgstr "最小"
 
 #: ../Deluge/Deluge:240 ../KTorrent/KTorrent:253
 #: ../Transmission/Transmission:153
 msgid "sec"
-msgstr ""
+msgstr "sec"
 
 #: ../Deluge/Deluge:243 ../KTorrent/KTorrent:256
 #: ../Transmission/Transmission:324
 msgid "Time remaining: Unknown"
-msgstr ""
+msgstr "剩餘時間：未知"
 
 #: ../Deluge/Deluge:245 ../KTorrent/KTorrent:258
 #: ../Transmission/Transmission:326
 msgid "Finished"
-msgstr ""
+msgstr "結束"
 
 #: ../Deluge/Deluge:246 ../KTorrent/KTorrent:261
 #: ../Transmission/Transmission:327
 msgid "Number of peers:"
-msgstr ""
+msgstr "同行人數："
 
 #: ../Deluge/Deluge:246 ../KTorrent/KTorrent:261
 #: ../Transmission/Transmission:327
 msgid "and seeds:"
-msgstr ""
+msgstr "和種子：："
 
 #: ../Deluge/Deluge:248 ../KTorrent/KTorrent:270
 #: ../Transmission/Transmission:335
 msgid "Ratio:"
-msgstr ""
+msgstr "比率："
 
 #: ../Deluge/Deluge:251 ../KTorrent/KTorrent:275
 #: ../Transmission/Transmission:339
 msgid "No torrent in the list"
-msgstr ""
+msgstr "清單中沒有種子"
 
 #: ../Deluge/Deluge:256 ../Transmission/Transmission:344
 msgid "Total amount of data:"
-msgstr ""
+msgstr "數據總量："
 
 #: ../Deluge/Deluge:264 ../Transmission/Transmission:353
 msgid "Received:"
-msgstr ""
+msgstr "已接收:"
 
 #: ../Deluge/Deluge:272 ../Transmission/Transmission:361
 msgid "Sent:"
-msgstr ""
+msgstr "送出："
 
 #: ../Deluge/Deluge:346 ../Transmission/Transmission:506
 msgid "Pause all torrents"
-msgstr ""
+msgstr "暫停全部的 Torrent"
 
 #: ../Deluge/Deluge:351 ../Transmission/Transmission:511
 msgid "Resume all torrents"
-msgstr ""
+msgstr "恢復所有種子"
 
 #: ../Deluge/Deluge:356 ../KTorrent/KTorrent:334
 #: ../Transmission/Transmission:516
 msgid "Torrents info"
-msgstr ""
+msgstr "種子訊息"
 
 #: ../Deluge/Deluge:356 ../Gmail/Gmail:564 ../KTorrent/KTorrent:334
 #: ../Notifications_history/Notifications_history:176
 #: ../Screensaver_inhibitor/Screensaver_inhibitor:213
 #: ../Translator/Translator:416 ../Transmission/Transmission:516
 msgid "middle-click"
-msgstr ""
+msgstr "中鍵點擊"
 
 #: ../Deluge/Deluge:361 ../Transmission/Transmission:521
 msgid "Quit"
-msgstr ""
+msgstr "關閉"
 
 #: ../Deluge/messages:93 ../KTorrent/messages:93 ../Transmission/messages:93
 msgid "Shortkey to pop up the torrents info:"
-msgstr ""
+msgstr "彈出種子資訊的快捷鍵："
 
 #: ../Deluge/messages:95 ../Transmission/messages:95
 msgid "Show as quick-info:"
-msgstr ""
+msgstr "顯示為快速訊息："
 
 #: ../Deluge/messages:97 ../Transmission/messages:97
 msgid "None"
-msgstr ""
+msgstr "沒有一個"
 
 #: ../Deluge/messages:99 ../Transmission/messages:99
 msgid "Download speed"
-msgstr ""
+msgstr "下載速度"
 
 #: ../Deluge/messages:101 ../Transmission/messages:101
 msgid "Percentage done"
-msgstr ""
+msgstr "完成百分比"
 
 #: ../Deluge/messages:103 ../Transmission/messages:103
 msgid "Percentage + number of active torrents"
-msgstr ""
+msgstr "百分比 + 活躍種子數量"
 
 #: ../Deluge/messages:105 ../Transmission/messages:107
 msgid "Show the percentage done as a progress bar"
-msgstr ""
+msgstr "將完成的百分比顯示為進度條"
 
 #: ../Deluge/messages:108
 msgid ""
@@ -794,80 +808,87 @@ msgid ""
 "<b>Drop a torrent file</b> on the icon to add it to the list and start "
 "downloading it immediately."
 msgstr ""
+"此小程式可讓您從 Dock<b>控制 Deluge</b>（您需要安裝<i>deluged</i>這是用於 "
+"Dock 和 Deluge 之間通信的守護進程）。\n"
+"它可以在圖示上顯示<b>下載速率</b>。\n"
+"<b>在圖示上按一下滑鼠中鍵</b>可為您提供有關當前種子的資訊（您可以為此操作綁定"
+"快捷鍵）。\n"
+"<b>右鍵單擊</b>圖示可讓您暫停/啟動所有種子。\n"
+"<b>將 torrent 檔案拖曳到圖示上</b>，將其新增至清單並立即開始下載。"
 
 #: ../Gmail/Gmail:68
 msgid "No Subject"
-msgstr ""
+msgstr "無主題"
 
 #: ../Gmail/Gmail:138 ../Gmail/Gmail:144 ../Gmail/Gmail:153
 msgid "Please fill in your Gmail account."
-msgstr ""
+msgstr "請填寫您的 Gmail 帳戶。"
 
 #: ../Gmail/Gmail:177
 msgid "Please, enter your Gmail username:"
-msgstr ""
+msgstr "請輸入您的 Gmail 使用者名稱："
 
 #: ../Gmail/Gmail:185
 msgid "Please, enter your Gmail password:"
-msgstr ""
+msgstr "請輸入您的 Gmail 密碼："
 
 #: ../Gmail/Gmail:294
 msgid "WARNING: there was an error reading XML content."
-msgstr ""
+msgstr "警告：讀取 XML 內容時發生錯誤。"
 
 #: ../Gmail/Gmail:317
 msgid "WARNING: Gmail applet failed to connect to Gmail atom feed."
-msgstr ""
+msgstr "警告：Gmail 小程式無法連線到 Gmail Atom Feed。"
 
 #: ../Gmail/Gmail:332
 msgid "WARNING: Gmail atom feed is badly formed: "
-msgstr ""
+msgstr "警告：Gmail Atom feed 格式錯誤： "
 
 #: ../Gmail/Gmail:340
 msgid ""
 "WARNING: Gmail Applet is not equipped for authentication other than BASIC."
-msgstr ""
+msgstr "警告：Gmail Applet 不具備 BASIC 以外的身份驗證功能。"
 
 #: ../Gmail/Gmail:353
 msgid "WARNING: Gmail username or password may be wrong."
-msgstr ""
+msgstr "警告：Gmail 使用者名稱或密碼可能有誤。"
 
 #: ../Gmail/Gmail:426
 msgid "Error!"
-msgstr ""
+msgstr "錯誤！"
 
 #: ../Gmail/Gmail:459
 #, python-format
 msgid "You have %s new emails"
-msgstr ""
+msgstr "您有 %s 封新電子郵件"
 
 #: ../Gmail/Gmail:461
 msgid "You have 1 new email"
-msgstr ""
+msgstr "您有 1 封新電子郵件"
 
 #: ../Gmail/Gmail:553
 msgid "Sorry, there was no input!"
-msgstr ""
+msgstr "抱歉，沒有輸入！"
 
 #: ../Gmail/Gmail:562
 msgid "Add or change subscription"
-msgstr ""
+msgstr "新增或更改訂閱"
 
 #: ../Gmail/Gmail:563
 msgid "Use this to add or change your Gmail account details."
-msgstr ""
+msgstr "使用它來新增或更改您的 Gmail 帳戶詳細資訊。"
 
 #: ../Gmail/Gmail:565
 msgid "Check inbox now"
-msgstr ""
+msgstr "立即查看收件匣"
 
 #: ../Gmail/Gmail:566
 msgid "Check Gmail inbox now if you can't wait."
-msgstr ""
+msgstr "如果您等不及了，請立即查看 Gmail 收件匣。"
 
 #: ../Gmail/Gmail:567
 msgid "Write a mail"
-msgstr ""
+msgstr "寫郵件"
 
 #: ../Gmail/messages:15
 msgid "Always display the icon, even when the dock is hidden?"
@@ -875,23 +896,23 @@ msgstr "永遠顯示圖示，即使Dock已經隱藏起來？"
 
 #: ../Gmail/messages:17 ../Pidgin/messages:113 ../Xchat/messages:105
 msgid "No"
-msgstr ""
+msgstr "不要"
 
 #: ../Gmail/messages:19
 msgid "With default background"
-msgstr ""
+msgstr "使用預設背景"
 
 #: ../Gmail/messages:21
 msgid "With custom background"
-msgstr ""
+msgstr "自定義背景"
 
 #: ../Gmail/messages:23
 msgid "Background color to add in this case"
-msgstr ""
+msgstr "在這種情況下要添加的背景顏色"
 
 #: ../Gmail/messages:99
 msgid "(in minutes)"
-msgstr ""
+msgstr "（以分鐘為單位）"
 
 #: ../Gmail/messages:101
 msgid "Delay between refreshes:"
@@ -899,48 +920,48 @@ msgstr "刷新的間隔時間："
 
 #: ../Gmail/messages:103
 msgid "Alerts"
-msgstr ""
+msgstr "警示"
 
 #: ../Gmail/messages:105
 msgid "Show alerts?"
-msgstr ""
+msgstr "顯示警報？"
 
 #: ../Gmail/messages:107
 msgid "Should an animation be applied to the icon?"
-msgstr ""
+msgstr "應該對圖示套用動畫嗎？"
 
 #: ../Gmail/messages:109
 msgid "Show animation?"
-msgstr ""
+msgstr "顯示動畫？"
 
 #: ../Gmail/messages:111
 msgid "Which animation should the apply to the icon?"
-msgstr ""
+msgstr "哪個動畫應該應用於圖示？"
 
 #: ../Gmail/messages:113
 msgid "Choose animation?"
-msgstr ""
+msgstr "選擇動畫？"
 
 #: ../Gmail/messages:115
 msgid "Should the applet display a dialogue box with the notification?"
-msgstr ""
+msgstr "小程式是否應該顯示一個有通知的對話框？"
 
 #: ../Gmail/messages:117
 msgid "Show dialogue?"
-msgstr ""
+msgstr "顯示對話？"
 
 #: ../Gmail/messages:119
 msgid "Should the applet play a sound with the notification?"
-msgstr ""
+msgstr "小程式應該在通知時播放聲音嗎？"
 
 #: ../Gmail/messages:121
 msgid "Play a sound?"
-msgstr ""
+msgstr "播放聲音？"
 
 #: ../Gmail/messages:123
 msgid ""
 "Several files are available in ~/.config/cairo-dock/third-party/Gmail/snd/"
-msgstr ""
+msgstr "~/.config/cairo-dock/thirdparty/Gmail/snd/ 中有幾個檔案可用"
 
 #: ../Gmail/messages:125
 msgid "Path to sound file:"
@@ -948,31 +969,31 @@ msgstr "警告聲音檔案的路徑："
 
 #: ../Gmail/messages:127
 msgid "Display a counter on the icon?"
-msgstr ""
+msgstr "在圖示上顯示計數器？"
 
 #: ../Gmail/messages:129
 msgid "Do you want an emblem or a quick-info label to be displayed?"
-msgstr ""
+msgstr "您想要顯示標誌或快速資訊標籤嗎？"
 
 #: ../Gmail/messages:131
 msgid "How?"
-msgstr ""
+msgstr "如何？"
 
 #: ../Gmail/messages:133
 msgid "small emblem"
-msgstr ""
+msgstr "小徽章"
 
 #: ../Gmail/messages:135
 msgid "large emblem"
-msgstr ""
+msgstr "大徽章"
 
 #: ../Gmail/messages:137
 msgid "quickinfo"
-msgstr ""
+msgstr "快速資訊"
 
 #: ../Gmail/messages:140
 msgid "This applet will notify you of new emails on a single Gmail account."
-msgstr ""
+msgstr "此小程式將通知您單一 Gmail 帳戶上的新電子郵件。"
 
 #: ../Google/messages:92
 msgid ""
@@ -981,77 +1002,83 @@ msgid ""
 "Each result will be shown as a sub-icon.\n"
 "Left-click to open the result in the default Web Browser."
 msgstr ""
+"該小程式提供了 Google 搜尋引擎的介面。\n"
+"左鍵點選主圖示以開啟搜尋對話框。\n"
+"每個結果將顯示為子圖示。\n"
+"左鍵點選可在預設 Web 瀏覽器中開啟結果。"
 
 #: ../GTG/GTG:152
 msgid ""
 "Couldn't connect to GTG :-(\n"
 "Did you install it?"
 msgstr ""
+"無法連線到 GTG :-(\n"
+"你安裝了嗎？"
 
 #: ../GTG/GTG:166
 msgid "Couldn't launch "
-msgstr ""
+msgstr "無法啟動 "
 
 #: ../GTG/GTG:171
 msgid "Connecting to gtg, please wait ..."
-msgstr ""
+msgstr "正在連接 gtg，請稍候..."
 
 #: ../GTG/GTG:208
 msgid "Create a new task"
-msgstr ""
+msgstr "建立新的工作"
 
 #: ../GTG/GTG:222 ../GTG/GTG:258
 msgid "Open category's task"
-msgstr ""
+msgstr "開啟類別的任務"
 
 #: ../GTG/GTG:226 ../GTG/GTG:262
 msgid "Create post-it from this category"
-msgstr ""
+msgstr "從此類別建立便利貼"
 
 #: ../GTG/GTG:305 ../GTG/GTG:307 ../GTG/GTG:309
 msgid "The task: "
-msgstr ""
+msgstr "任務： "
 
 #: ../GTG/GTG:305
 msgid " is due today"
-msgstr ""
+msgstr " 今天到期"
 
 #: ../GTG/GTG:307
 msgid " is due NOW"
-msgstr ""
+msgstr " 現在到期"
 
 #: ../GTG/GTG:309
 msgid " was due on "
-msgstr ""
+msgstr " 到期日為 "
 
 #: ../GTG/messages:93 ../Xchat/messages:95
 msgid "Bubbles duration :"
-msgstr ""
+msgstr "氣泡持續時間："
 
 #: ../GTG/messages:95 ../Pidgin/messages:105 ../Xchat/messages:97
 msgid "Short"
-msgstr ""
+msgstr "短"
 
 #: ../GTG/messages:97 ../Pidgin/messages:107 ../Twitter/messages:97
 #: ../Xchat/messages:99
 msgid "Medium"
-msgstr ""
+msgstr "中級"
 
 #: ../GTG/messages:99 ../Pidgin/messages:109 ../Xchat/messages:101
 msgid "Long"
-msgstr ""
+msgstr "長"
 
 #: ../GTG/messages:101
 msgid "Animation of the icon on receiving channel messages :"
-msgstr ""
+msgstr "接收頻道訊息時圖示的動畫："
 
 #: ../GTG/messages:103 ../Xchat/messages:93
 msgid "Display channel messages in a bubble :"
-msgstr ""
+msgstr "在氣泡中顯示頻道訊息："
 
 #: ../GTG/messages:107
 msgid "Post-it's initial dimension (width x height) :"
-msgstr ""
+msgstr "便利貼的初始尺寸（寬 x 高）："
 
 #: ../GTG/messages:110
 msgid ""
@@ -1060,6 +1087,10 @@ msgid ""
 "Create a new task on middle-click,Create a post-it from a task category.\n"
 "The icon will also control the window of GTG like a normal application icon."
 msgstr ""
+"該小程式將 GTG 整合到您的擴充座中。\n"
+"它可以顯示任務，\n"
+"按一下滑鼠中鍵以建立新任務，從任務類別建立便利貼。\n"
+"該圖標還將像普通應用程式圖標一樣控制 GTG 的視窗。"
 
 #: ../HDDtemperature/messages:17 ../Moon/messages:21
 #: ../Notifications_history/messages:21 ../Screensaver_inhibitor/messages:21
@@ -1068,55 +1099,58 @@ msgid ""
 "Depending on your WindowManager, you can resize it with ALT + middle_click "
 "or ALT + left_click for exemple."
 msgstr ""
+"例如，根據您的 WindowManager，您可以使用 ALT + 中鍵或 ALT + 左鍵單擊來調整其"
+"大小。"
 
 #: ../HDDtemperature/messages:19 ../Moon/messages:23
 #: ../Notifications_history/messages:23 ../Screensaver_inhibitor/messages:23
 #: ../Translator/messages:29
 msgid "Desklet's dimension (width x height) :"
-msgstr ""
+msgstr "辦公桌尺寸（寬x高）："
 
 #: ../HDDtemperature/messages:21 ../Moon/messages:25
 #: ../Notifications_history/messages:25 ../Screensaver_inhibitor/messages:25
 #: ../Translator/messages:31
-msgid ""
-"Depending on your WindowManager, you can move it with ALT + left_click"
-msgstr ""
+msgid "Depending on your WindowManager, you can move it with ALT + left_click"
+msgstr "根據您的 WindowManager，您可以使用 ALT + left_click 來移動它"
 
 #: ../HDDtemperature/messages:23 ../Moon/messages:27
 #: ../Notifications_history/messages:27 ../Screensaver_inhibitor/messages:27
 #: ../Translator/messages:33
 msgid "Desklet's position (x ; y) :"
-msgstr ""
+msgstr "Desklet 的位置 (x ; y) :"
 
 #: ../HDDtemperature/messages:25 ../Moon/messages:29
 #: ../Notifications_history/messages:29 ../Screensaver_inhibitor/messages:29
 #: ../Translator/messages:41
 msgid "Is detached from the dock ?"
-msgstr ""
+msgstr "是否與 dock 分離？"
 
 #: ../HDDtemperature/messages:27 ../Translator/messages:43
 msgid ""
 "for CompizFusion's \"widget layer\", set behaviour in Compiz to: "
 "(class=Cairo-dock & type=utility)"
 msgstr ""
+"對於 CompizFusion 的“小部件層”，將 Compiz 中的行為設為：(class=Cairo-dock & "
+"type=utility)"
 
 #: ../HDDtemperature/messages:29 ../Moon/messages:31
 #: ../Notifications_history/messages:33 ../Screensaver_inhibitor/messages:33
 #: ../Translator/messages:45
 msgid "Accessibility :"
-msgstr ""
+msgstr "輔助功能："
 
 #: ../HDDtemperature/messages:37 ../Moon/messages:39
 #: ../Notifications_history/messages:41 ../Screensaver_inhibitor/messages:41
 #: ../Translator/messages:53
 msgid "On Widget Layer"
-msgstr ""
+msgstr "在小部件層上"
 
 #: ../HDDtemperature/messages:41 ../Moon/messages:43
 #: ../Notifications_history/messages:45 ../Screensaver_inhibitor/messages:45
 #: ../Translator/messages:57
 msgid "Should be visible on all desktops ?"
-msgstr ""
+msgstr "應該在所有桌面上可見？"
 
 #: ../HDDtemperature/messages:43 ../Moon/messages:45
 #: ../Notifications_history/messages:47 ../Screensaver_inhibitor/messages:47
@@ -1124,33 +1158,35 @@ msgid ""
 "If locked, the desklet can't be moved by simply dragging it with the left "
 "mouse button. Of course you can still move it with ALT + left_click."
 msgstr ""
+"如果鎖定，則無法透過簡單地用滑鼠左鍵拖曳來移動桌面。 當然，您仍然可以使用 "
+"ALT + 左鍵單擊來移動它。"
 
 #: ../HDDtemperature/messages:45 ../Moon/messages:47
 #: ../Notifications_history/messages:49 ../Screensaver_inhibitor/messages:49
 msgid "Lock position ?"
-msgstr ""
+msgstr "鎖定位置？"
 
 #: ../HDDtemperature/messages:47 ../Moon/messages:49
 #: ../Notifications_history/messages:51 ../Screensaver_inhibitor/messages:51
 msgid "in degrees."
-msgstr ""
+msgstr "以度為單位。"
 
 #: ../HDDtemperature/messages:49 ../Moon/messages:51
 #: ../Notifications_history/messages:53 ../Screensaver_inhibitor/messages:53
 msgid "Rotation :"
-msgstr ""
+msgstr "迴轉 ："
 
 #: ../HDDtemperature/messages:53 ../Moon/messages:55
 #: ../Notifications_history/messages:57 ../Screensaver_inhibitor/messages:57
 #: ../Translator/messages:61
 msgid "Choose the 'personnal' one to define your own decorations below."
-msgstr ""
+msgstr "選擇下面的“個人”裝飾來定義您自己的裝飾。"
 
 #: ../HDDtemperature/messages:55 ../Moon/messages:57
 #: ../Notifications_history/messages:59 ../Screensaver_inhibitor/messages:59
 #: ../Translator/messages:63
 msgid "Choose a decoration theme for this desklet :"
-msgstr ""
+msgstr "為此桌面選擇一個裝飾主題："
 
 #: ../HDDtemperature/messages:57 ../Moon/messages:59
 #: ../Notifications_history/messages:61 ../Screensaver_inhibitor/messages:61
@@ -1158,61 +1194,61 @@ msgstr ""
 msgid ""
 "It's an image that will be displayed below the drawings, like a frame for "
 "exemple. Let empty to not use any."
-msgstr ""
+msgstr "它是一個將顯示在圖紙下方的圖像，例如框架。 留空不使用任何。"
 
 #: ../HDDtemperature/messages:61 ../Moon/messages:63
 #: ../Notifications_history/messages:65 ../Screensaver_inhibitor/messages:65
 #: ../Translator/messages:69
 msgid "Background tansparency :"
-msgstr ""
+msgstr "背景透明度："
 
 #: ../HDDtemperature/messages:63 ../Moon/messages:65
 #: ../Notifications_history/messages:67 ../Screensaver_inhibitor/messages:67
 #: ../Translator/messages:71
 msgid "in pixels. Use this to adjust the left position of the drawings."
-msgstr ""
+msgstr "以像素為單位，可以調整位於左邊時的位置。"
 
 #: ../HDDtemperature/messages:65 ../Moon/messages:67
 #: ../Notifications_history/messages:69 ../Screensaver_inhibitor/messages:69
 #: ../Translator/messages:73
 msgid "Left offset :"
-msgstr ""
+msgstr "左邊的位移量："
 
 #: ../HDDtemperature/messages:67 ../Moon/messages:69
 #: ../Notifications_history/messages:71 ../Screensaver_inhibitor/messages:71
 #: ../Translator/messages:75
 msgid "in pixels. Use this to adjust the top position of the drawings."
-msgstr ""
+msgstr "以像素為單位，可以調整位於頂部時的位置。"
 
 #: ../HDDtemperature/messages:69 ../Moon/messages:71
 #: ../Notifications_history/messages:73 ../Screensaver_inhibitor/messages:73
 #: ../Translator/messages:77
 msgid "Top offset :"
-msgstr ""
+msgstr "頂部位移量："
 
 #: ../HDDtemperature/messages:71 ../Moon/messages:73
 #: ../Notifications_history/messages:75 ../Screensaver_inhibitor/messages:75
 #: ../Translator/messages:79
 msgid "in pixels. Use this to adjust the right position of the drawings."
-msgstr ""
+msgstr "以像素為單位，可以調整位於右邊時的位置。"
 
 #: ../HDDtemperature/messages:73 ../Moon/messages:75
 #: ../Notifications_history/messages:77 ../Screensaver_inhibitor/messages:77
 #: ../Translator/messages:81
 msgid "Right offset :"
-msgstr ""
+msgstr "右邊偏移量："
 
 #: ../HDDtemperature/messages:75 ../Moon/messages:77
 #: ../Notifications_history/messages:79 ../Screensaver_inhibitor/messages:79
 #: ../Translator/messages:83
 msgid "in pixels. Use this to adjust the bottom position of the drawings."
-msgstr ""
+msgstr "以像素為單位，可以調整位於底部時的位置。"
 
 #: ../HDDtemperature/messages:77 ../Moon/messages:79
 #: ../Notifications_history/messages:81 ../Screensaver_inhibitor/messages:81
 #: ../Translator/messages:85
 msgid "Bottom offset :"
-msgstr ""
+msgstr "底部偏移量："
 
 #: ../HDDtemperature/messages:79 ../Moon/messages:81
 #: ../Notifications_history/messages:83 ../Screensaver_inhibitor/messages:83
@@ -1220,49 +1256,49 @@ msgstr ""
 msgid ""
 "It's an image that will be displayed above the drawings, like a reflect for "
 "exemple. Let empty to not use any."
-msgstr ""
+msgstr "這是將顯示在繪圖上方的影像，例如反射。 留空不使用任何。"
 
 #: ../HDDtemperature/messages:83 ../Moon/messages:85
 #: ../Notifications_history/messages:87 ../Screensaver_inhibitor/messages:87
 #: ../Translator/messages:91
 msgid "Foreground tansparency :"
-msgstr ""
+msgstr "前景透明度："
 
 #: ../HDDtemperature/messages:87
 msgid "One or more device drive path to monitor:"
-msgstr ""
+msgstr "要監視的一個或多個裝置磁碟機路徑："
 
 #: ../HDDtemperature/messages:89
 msgid "Show maximum temperature on icon?"
-msgstr ""
+msgstr "在圖示上顯示最高溫度？"
 
 #: ../HDDtemperature/messages:91
 msgid "Time interval for checking (minutes):"
-msgstr ""
+msgstr "檢查時間間隔（分鐘）："
 
 #: ../HDDtemperature/messages:93
 msgid "It should conform to units used by hddtemp daemon"
-msgstr ""
+msgstr "它應該符合 hddtemp 守護程式使用的單位"
 
 #: ../HDDtemperature/messages:95
 msgid "Alert temperature value (°C by default)"
-msgstr ""
+msgstr "警報溫度值（預設°C）"
 
 #: ../HDDtemperature/messages:97
 msgid "0 for permanent show"
-msgstr ""
+msgstr "0 表示永久顯示"
 
 #: ../HDDtemperature/messages:99
 msgid "Pop up bubble duration (in seconds)"
-msgstr ""
+msgstr "彈出氣泡持續時間（以秒為單位）"
 
 #: ../HDDtemperature/messages:101
 msgid "Port number to listen to hddtemp daemon (7634 by default)"
-msgstr ""
+msgstr "監聽 hddtemp 守護程式的連接埠號碼（預設為 7634）"
 
 #: ../HDDtemperature/messages:103
 msgid "Separator between fields used by hddtemp daemon ( | by default)"
-msgstr ""
+msgstr "使用欄位之間的分隔符透過 hddtemp 守護程式（預設為 |）"
 
 #: ../HDDtemperature/messages:106
 msgid ""
@@ -1270,10 +1306,13 @@ msgid ""
 " getting values from 'hddtemp' daemon (see: man hddtemp). \n"
 " Left-click shows more information about HD drives."
 msgstr ""
+"此小程式顯示硬碟機的最高溫度\n"
+"從「hddtemp」守護程式取得值（請參閱：man hddtemp）。\n"
+"左鍵點擊顯示有關硬碟的更多資訊。"
 
 #: ../KTorrent/KTorrent:329
 msgid "Suspend all torrents"
-msgstr ""
+msgstr "暫停所有種子下載"
 
 #: ../KTorrent/messages:96
 msgid ""
@@ -1285,11 +1324,17 @@ msgid ""
 "<b>Drop a torrent file</b> on the icon to add it to the list and start "
 "downloading it immediately."
 msgstr ""
+"此小程式可讓您從 Dock <b>控制 KTorrent</b>。\n"
+"它可以在圖示上顯示<b>下載速率</b>。\n"
+"<b>在圖示上按一下滑鼠中鍵</b>可為您提供有關當前種子的資訊（您可以為此操作綁定"
+"快捷鍵）。\n"
+"<b>右鍵單擊</b>圖示可讓您暫停/啟動所有種子。\n"
+"<b>將 torrent 檔案拖曳到圖示上</b>，將其新增至清單並立即開始下載。"
 
 #: ../Lancelot/Lancelot:90
 msgid ""
 "Lancelot is not installed. Please install it before you run this applet."
-msgstr ""
+msgstr "蘭斯洛特未安裝。 請在運行此小程式之前安裝它。"
 
 #: ../Lancelot/messages:96
 msgid ""
@@ -1298,27 +1343,31 @@ msgid ""
 "Right-click lets you access to the preferences window.\n"
 "<u>Note:</u> you need to install Lancelot."
 msgstr ""
+"此小程式可讓您在擴充座內擁有<b>Lancelot 選單</b>。\n"
+"點擊該圖示可彈出式選單。\n"
+"右鍵單擊可訪問首選項視窗。\n"
+"<u>注意：</u>您需要安裝Lancelot。"
 
 #: ../Liferea/messages:93
 msgid "Show in the icon:"
-msgstr ""
+msgstr "在圖示中顯示："
 
 #: ../Liferea/messages:95
 msgid "Number of unread messages"
-msgstr ""
+msgstr "未讀訊息數"
 
 #: ../Liferea/messages:97
 msgid " Number of new messages"
-msgstr ""
+msgstr " 新訊息數"
 
 #: ../Liferea/messages:100
 msgid "This applets makes an interface with Liferea"
-msgstr ""
+msgstr "這個小程式與 Liferea 建立了一個接口"
 
 #: ../MintMenu/MintMenu:156
 msgid ""
 "MintMenu is not installed. Please install it before you run this applet."
-msgstr ""
+msgstr "MintMenu 未安裝。 請在運行此小程式之前安裝它。"
 
 #: ../MintMenu/messages:96
 msgid ""
@@ -1327,111 +1376,117 @@ msgid ""
 "Right-click lets you access to the preferences window.\n"
 "<u>Note:</u> you need to install MintMenu."
 msgstr ""
+"此小程式可讓您在 Dock 中新增 <b>Mint 選單</b>。\n"
+"點擊該圖示可彈出式選單。\n"
+"右鍵單擊可存取首選項視窗。\n"
+"<u>注意：</u>您需要安裝MintMenu。"
 
 #: ../Moon/Moon:80
 msgid "Monday"
-msgstr ""
+msgstr "星期一"
 
 #: ../Moon/Moon:80
 msgid "Tuesday"
-msgstr ""
+msgstr "星期二"
 
 #: ../Moon/Moon:80
 msgid "Wednesday"
-msgstr ""
+msgstr "星期三"
 
 #: ../Moon/Moon:80
 msgid "Thursday"
-msgstr ""
+msgstr "星期四"
 
 #: ../Moon/Moon:80
 msgid "Friday"
-msgstr ""
+msgstr "星期五"
 
 #: ../Moon/Moon:80
 msgid "Saturday"
-msgstr ""
+msgstr "星期六"
 
 #: ../Moon/Moon:80
 msgid "Sunday"
-msgstr ""
+msgstr "星期日"
 
 #: ../Moon/messages:89
 msgid "Show the moon for all the current week?"
-msgstr ""
+msgstr "顯示本週整週的月亮？"
 
 #: ../Moon/messages:91
 msgid "You are going to see the moon from the perspective of this hemisphere"
-msgstr ""
+msgstr "你將從這個半球的角度看月亮"
 
 #: ../Moon/messages:93
 msgid "Hemisphere:"
-msgstr ""
+msgstr "半球："
 
 #: ../Moon/messages:95
 msgid "North"
-msgstr ""
+msgstr "北"
 
 #: ../Moon/messages:97
 msgid "South"
-msgstr ""
+msgstr "南"
 
 #: ../Moon/messages:100
 msgid ""
 "This applet displays the moon phases and its informations for the current "
 "day, or week from the Northern or Southern hemisphere"
-msgstr ""
+msgstr "此小程式顯示北半球或南半球當天或一週的月相及其訊息"
 
 #: ../Moon/messages:102
 msgid "Moon"
-msgstr ""
+msgstr "月球"
 
 #: ../Notifications_history/Notifications_history:140
 msgid "No recent notification"
-msgstr ""
+msgstr "最近沒有通知"
 
 #: ../Notifications_history/Notifications_history:151
 #, python-format
 msgid "from %s at %s"
-msgstr ""
+msgstr "從 %s 出發，於 %s"
 
 #: ../Notifications_history/Notifications_history:176
 msgid "Clear history"
-msgstr ""
+msgstr "清除紀錄"
 
 #: ../Notifications_history/messages:31 ../Screensaver_inhibitor/messages:31
 msgid ""
 "for CompizFusion's \"widget layer\", set behaviour in Compiz to: "
 "(class=Cairo-dock & type=Utility)"
 msgstr ""
+"對於 CompizFusion 的\\\"小部件層\\\"，將 Compiz 中的行為設置為：(類別=Cairo-"
+"dock & 類型=實用工具)"
 
 #: ../Notifications_history/messages:91 ../Twitter/messages:101
 msgid "Notifications"
-msgstr ""
+msgstr "通知"
 
 #: ../Notifications_history/messages:93
 msgid "History size"
-msgstr ""
+msgstr "歷史規模"
 
 #: ../Notifications_history/messages:95
 msgid "Clear the history when clicking on the icon"
-msgstr ""
+msgstr "單擊圖示時清除歷史記錄"
 
 #: ../Notifications_history/messages:97
 msgid "Separated by a semi-colon ';'"
-msgstr ""
+msgstr "用分號';'分隔"
 
 #: ../Notifications_history/messages:99
 msgid "Ignore notifications from:"
-msgstr ""
+msgstr "忽略來自以下來源的通知："
 
 #: ../Notifications_history/messages:103
 msgid "Display another icon if there are new notifications"
-msgstr ""
+msgstr "如果有新通知，則顯示另一個圖標"
 
 #: ../Notifications_history/messages:105
 msgid "Displayed when a new notification is received"
-msgstr ""
+msgstr "收到新通知時顯示"
 
 #: ../Notifications_history/messages:110
 msgid ""
@@ -1439,35 +1494,38 @@ msgid ""
 "Click on the icon to get a list of the last notifications.\n"
 " Middle-click to clear the history."
 msgstr ""
+"該小程式提供最近桌面通知的歷史記錄。\n"
+"點擊該圖示即可取得最新通知的清​​單。\n"
+"按一下中鍵可清除歷史記錄。"
 
 #: ../Notifications_history/messages:112
 msgid "Notifications History"
-msgstr ""
+msgstr "通知歷史記錄"
 
 #: ../Pidgin/Pidgin:416
 msgid "Conversations"
-msgstr ""
+msgstr "交談"
 
 #: ../Pidgin/Pidgin:430
 msgid "Change your status"
-msgstr ""
+msgstr "改變你的狀態"
 
 #: ../Pidgin/Pidgin:445
 msgid "Set your status message"
-msgstr ""
+msgstr "設定您的狀態訊息"
 
 #: ../Pidgin/Pidgin:450 ../Xchat/Xchat:292
 msgid "Silent mode"
-msgstr ""
+msgstr "靜音模式"
 
 #: ../Pidgin/Pidgin:454 ../Xchat/Xchat:296 ../Xchat/Xchat:309
 #: ../Xchat/messages:123 ../Xchat/messages:127
 msgid "Switch the applet to silent mode (no pop-up on new message)."
-msgstr ""
+msgstr "將小程式切換為靜默模式（新訊息不彈出）。"
 
 #: ../Pidgin/Pidgin:465
 msgid "Enter your new status message:"
-msgstr ""
+msgstr "輸入您的新狀態訊息："
 
 #: ../Pidgin/messages:93 ../Pidgin/messages:97
 msgid "Parameters"
@@ -1475,44 +1533,44 @@ msgstr "參數"
 
 #: ../Pidgin/messages:95
 msgid "Choose a theme :"
-msgstr ""
+msgstr "選擇一個主題："
 
 #: ../Pidgin/messages:99
 msgid "Display conversation messages in a bubble?"
-msgstr ""
+msgstr "在氣泡中顯示對話訊息？"
 
 #: ../Pidgin/messages:101
 msgid "Display chat messages in a bubble?"
-msgstr ""
+msgstr "在氣泡中顯示聊天訊息？"
 
 #: ../Pidgin/messages:103
 msgid "Bubbles duration:"
-msgstr ""
+msgstr "氣泡持續時間："
 
 #: ../Pidgin/messages:111 ../Xchat/messages:103
 msgid "Animate the icon when receiving channel messages"
-msgstr ""
+msgstr "接收頻道訊息時圖示動畫"
 
 #: ../Pidgin/messages:115 ../Xchat/messages:107
 msgid "Simple animation"
-msgstr ""
+msgstr "簡單的動畫"
 
 #: ../Pidgin/messages:117 ../Xchat/messages:109
 msgid "Demands attention"
-msgstr ""
+msgstr "需要注意"
 
 #: ../Pidgin/messages:119 ../Xchat/messages:111
 msgid "Animation of the icon"
-msgstr ""
+msgstr "圖示的動畫"
 
 #: ../Pidgin/messages:121 ../Xchat/messages:113
 msgid ""
 "This is the number of messages that you can recall by scrolling on the icon."
-msgstr ""
+msgstr "這是您可以透過滾動圖示調出的訊息數。"
 
 #: ../Pidgin/messages:123 ../Xchat/messages:115
 msgid "Size of the history :"
-msgstr ""
+msgstr "歷史記錄大小："
 
 #: ../Pidgin/messages:125 ../Xchat/messages:117
 msgid "none"
@@ -1532,111 +1590,121 @@ msgid ""
 "The icon will also control the window of Pidgin like a normal application "
 "icon."
 msgstr ""
+"該小程式將 Pidgin 整合到您的 Dock 中。\n"
+"它可以顯示新訊息，\n"
+"您從右鍵選單中選擇一個對話，\n"
+"點選中鍵寫一則訊息，\n"
+"並透過滾動圖示來顯示訊息歷史記錄\n"
+"該圖標還將像普通應用程式圖標一樣控制 Pidgin 的視窗。"
 
 #: ../Quote/messages:7
 msgid "Let empty to display the current site's name."
-msgstr ""
+msgstr "留空以顯示目前網站的名稱。"
 
 #: ../Quote/messages:95
 msgid "Quote source:"
-msgstr ""
+msgstr "引用來源："
 
 #: ../Quote/messages:97
 msgid "Quotationspage.com"
-msgstr ""
+msgstr "Quotationspage.com"
 
 #: ../Quote/messages:99
 msgid "Bash.org"
-msgstr ""
+msgstr "Bash.org"
 
 #: ../Quote/messages:101
 msgid "Xkcdb.com"
-msgstr ""
+msgstr "Xkcdb.com"
 
 #: ../Quote/messages:103
 msgid "Qdb.us"
-msgstr ""
+msgstr "Qdb.us"
 
 #: ../Quote/messages:105
 msgid "Danstonchat.com"
-msgstr ""
+msgstr "Danstonchat.com"
 
 #: ../Quote/messages:107
 msgid "Jokes2go.com"
-msgstr ""
+msgstr "Jokes2go.com"
 
 #: ../Quote/messages:109
 msgid "Vidademerda.com.br"
-msgstr ""
+msgstr "Vidademerda.com.br"
 
 #: ../Quote/messages:111
 msgid "Viedemerde.fr"
-msgstr ""
+msgstr "Viedemerde.fr"
 
 #: ../Quote/messages:113
 msgid "Fmylife.com"
-msgstr ""
+msgstr "Fmylife.com"
 
 #: ../Quote/messages:115
 msgid "Vitadimerda.it"
-msgstr ""
+msgstr "Vitadimerda.it"
 
 #: ../Quote/messages:117
 msgid "100blagues.com"
-msgstr ""
+msgstr "100blagues.com"
 
 #: ../Quote/messages:119
 msgid "Chucknorrisfacts.fr"
-msgstr ""
+msgstr "Chucknorrisfacts.fr"
 
 #: ../Quote/messages:122
 msgid ""
 "This applet provides a \"Quote of the day\" feature from some internet "
 "sources such as:\n"
-" Quotationspage.com, Bash.org, Xkcdb.com, Qdb.us, Danstonchat.com, "
-"Jokes2go.com, Vidademerda.com.br, Viedemerde.fr, Fmylife.com, "
-"Vitadimerda.it, 100blagues.com, and Chucknorrisfacts.fr."
+" Quotationspage.com, Bash.org, Xkcdb.com, Qdb.us, Danstonchat.com, Jokes2go."
+"com, Vidademerda.com.br, Viedemerde.fr, Fmylife.com, Vitadimerda.it, "
+"100blagues.com, and Chucknorrisfacts.fr."
 msgstr ""
+"此小程式提供來自某些網路來源的「每日報價」功能，例如：\n"
+"Quotationspage.com、Bash.org、Xkcdb.com、Qdb.us、Danstonchat.com、Jokes2go."
+"com、Vidademerda.com.br, Viedemerde.fr, Fmylife.com, Vitadimerda.it, "
+"100blagues.com, and Chucknorrisfacts.fr."
 
 #: ../Quote/messages:124
 msgid "Quote"
-msgstr ""
+msgstr "Quote"
 
 #: ../Screensaver_inhibitor/Screensaver_inhibitor:86
 msgid "Enable the screensaver"
-msgstr ""
+msgstr "啟用螢幕保護程式"
 
 #: ../Screensaver_inhibitor/Screensaver_inhibitor:92
 msgid "Disable the screensaver"
-msgstr ""
+msgstr "停用螢幕保護程式"
 
 #: ../Screensaver_inhibitor/Screensaver_inhibitor:200
 msgid "Inhibit for a given time (in minutes)"
-msgstr ""
+msgstr "抑制指定時間（以分鐘為單位）"
 
 #: ../Screensaver_inhibitor/Screensaver_inhibitor:207
 msgid "timelength"
-msgstr ""
+msgstr "時間長度"
 
 #: ../Screensaver_inhibitor/Screensaver_inhibitor:213
 msgid "Inhibit for a given time"
-msgstr ""
+msgstr "抑制指定時間"
 
 #: ../Screensaver_inhibitor/messages:13
 msgid "Image filename when the screensaver is inhibited:"
-msgstr ""
+msgstr "禁止螢幕保護程式時的圖像檔案名稱："
 
 #: ../Screensaver_inhibitor/messages:91
 msgid "(in minutes). 0 to never stop automatically"
-msgstr ""
+msgstr "（以分鐘為單位）。  0 表示永不自動停止"
 
 #: ../Screensaver_inhibitor/messages:93
 msgid "How long should last the inhibition:"
-msgstr ""
+msgstr "抑制應持續多久："
 
 #: ../Screensaver_inhibitor/messages:95
 msgid "Shortkey to (de)inhibit the screensaver:"
-msgstr ""
+msgstr "用於（取消）禁止螢幕保護程式的快速鍵："
 
 #: ../Screensaver_inhibitor/messages:98
 msgid ""
@@ -1644,334 +1712,337 @@ msgid ""
 "This is especially useful when watching videos on Internet.\n"
 "<b>Click</b> on the icon to inhibit/deinhibit the screensaver."
 msgstr ""
+"一個用於<b>禁止螢幕保護程式</b>的小程式。\n"
+"這在互聯網上觀看視頻時特別有用。\n"
+"<b>點選</b>圖示可禁止/取消禁止螢幕保護程式。"
 
 #: ../Screensaver_inhibitor/messages:100
 msgid "Screensaver Inhibitor"
-msgstr ""
+msgstr "螢幕保護程式抑制器"
 
 #: ../Translator/Translator:364
 msgid "To"
-msgstr ""
+msgstr "到"
 
 #: ../Translator/Translator:383
 msgid "From"
-msgstr ""
+msgstr "發件者"
 
 #: ../Translator/Translator:403
 msgid "Switch languages"
-msgstr ""
+msgstr "切換語言"
 
 #: ../Translator/Translator:403
 msgid "scroll"
-msgstr ""
+msgstr "捲動"
 
 #: ../Translator/Translator:416
 msgid "Translate from clipboard"
-msgstr ""
+msgstr "從剪貼簿翻譯"
 
 #: ../Translator/messages:95
 msgid "Languages"
-msgstr ""
+msgstr "語言"
 
 #: ../Translator/messages:97
 msgid "Translate from:"
-msgstr ""
+msgstr "翻譯自："
 
 #: ../Translator/messages:99 ../Translator/messages:229
 msgid "Afrikaans"
-msgstr ""
+msgstr "阿非利堪斯語"
 
 #: ../Translator/messages:101 ../Translator/messages:231
 msgid "Albanian"
-msgstr ""
+msgstr "阿爾巴尼亞語"
 
 #: ../Translator/messages:103 ../Translator/messages:233
 msgid "Arabic"
-msgstr ""
+msgstr "阿拉伯文"
 
 #: ../Translator/messages:105 ../Translator/messages:235
 msgid "Armenian"
-msgstr ""
+msgstr "亞美尼亞文"
 
 #: ../Translator/messages:107 ../Translator/messages:237
 msgid "Azerbaijani"
-msgstr ""
+msgstr "亞塞拜然語"
 
 #: ../Translator/messages:109 ../Translator/messages:239
 msgid "Basque"
-msgstr ""
+msgstr "巴斯克語"
 
 #: ../Translator/messages:111 ../Translator/messages:241
 msgid "Belarusian"
-msgstr ""
+msgstr "白俄羅斯語"
 
 #: ../Translator/messages:113 ../Translator/messages:243
 msgid "Bengali"
-msgstr ""
+msgstr "孟加拉"
 
 #: ../Translator/messages:115 ../Translator/messages:245
 msgid "Bulgarian"
-msgstr ""
+msgstr "保加利亞語"
 
 #: ../Translator/messages:117 ../Translator/messages:247
 msgid "Catalan"
-msgstr ""
+msgstr "加泰隆尼亞語"
 
 #: ../Translator/messages:119
 msgid "Chinese (simplified)"
-msgstr ""
+msgstr "中文 (簡體)"
 
 #: ../Translator/messages:121
 msgid "Chinese (traditional)"
-msgstr ""
+msgstr "中文 (正體)"
 
 #: ../Translator/messages:123 ../Translator/messages:253
 msgid "Croatian"
-msgstr ""
+msgstr "克羅埃西亞語"
 
 #: ../Translator/messages:125 ../Translator/messages:255
 msgid "Czech"
-msgstr ""
+msgstr "捷克語"
 
 #: ../Translator/messages:127 ../Translator/messages:257
 msgid "Danish"
-msgstr ""
+msgstr "丹麥語"
 
 #: ../Translator/messages:129 ../Translator/messages:259
 msgid "Dutch"
-msgstr ""
+msgstr "荷蘭語"
 
 #: ../Translator/messages:131 ../Translator/messages:261
 msgid "English"
-msgstr ""
+msgstr "英文"
 
 #: ../Translator/messages:133 ../Translator/messages:263
 msgid "Estonian"
-msgstr ""
+msgstr "愛沙尼亞語"
 
 #: ../Translator/messages:135 ../Translator/messages:265
 msgid "Filipino"
-msgstr ""
+msgstr "菲律賓語"
 
 #: ../Translator/messages:137 ../Translator/messages:267
 msgid "Finnish"
-msgstr ""
+msgstr "芬蘭語"
 
 #: ../Translator/messages:139 ../Translator/messages:269
 msgid "French"
-msgstr ""
+msgstr "法語 (有 euro)"
 
 #: ../Translator/messages:141 ../Translator/messages:271
 msgid "Galician"
-msgstr ""
+msgstr "加里西亞語"
 
 #: ../Translator/messages:143 ../Translator/messages:273
 msgid "Georgian"
-msgstr ""
+msgstr "喬治亞文"
 
 #: ../Translator/messages:145 ../Translator/messages:275
 msgid "German"
-msgstr ""
+msgstr "德語"
 
 #: ../Translator/messages:147 ../Translator/messages:277
 msgid "Greek"
-msgstr ""
+msgstr "希臘文"
 
 #: ../Translator/messages:149 ../Translator/messages:279
 msgid "Gujarati"
-msgstr ""
+msgstr "古吉拉特語"
 
 #: ../Translator/messages:151 ../Translator/messages:281
 msgid "Haitian"
-msgstr ""
+msgstr "海地語"
 
 #: ../Translator/messages:153 ../Translator/messages:283
 msgid "Hebrew"
-msgstr ""
+msgstr "希伯來文"
 
 #: ../Translator/messages:155 ../Translator/messages:285
 msgid "Hindi"
-msgstr ""
+msgstr "印地語"
 
 #: ../Translator/messages:157 ../Translator/messages:287
 msgid "Hungarian"
-msgstr ""
+msgstr "匈牙利語"
 
 #: ../Translator/messages:159 ../Translator/messages:289
 msgid "Icelandic"
-msgstr ""
+msgstr "冰島語"
 
 #: ../Translator/messages:161 ../Translator/messages:291
 msgid "Indonesian"
-msgstr ""
+msgstr "印度尼西亞語"
 
 #: ../Translator/messages:163 ../Translator/messages:293
 msgid "Irish"
-msgstr ""
+msgstr "愛爾蘭語"
 
 #: ../Translator/messages:165 ../Translator/messages:295
 msgid "Italian"
-msgstr ""
+msgstr "義大利語"
 
 #: ../Translator/messages:167 ../Translator/messages:297
 msgid "Japanese"
-msgstr ""
+msgstr "日語"
 
 #: ../Translator/messages:169 ../Translator/messages:299
 msgid "Kannada"
-msgstr ""
+msgstr "坎達那"
 
 #: ../Translator/messages:171 ../Translator/messages:301
 msgid "Korean"
-msgstr ""
+msgstr "韓語"
 
 #: ../Translator/messages:173 ../Translator/messages:303
 msgid "Latin"
-msgstr ""
+msgstr "拉丁"
 
 #: ../Translator/messages:175 ../Translator/messages:305
 msgid "Latvian"
-msgstr ""
+msgstr "拉脫維亞語 拉丁(4)"
 
 #: ../Translator/messages:177 ../Translator/messages:307
 msgid "Lithuanian"
-msgstr ""
+msgstr "立陶宛語"
 
 #: ../Translator/messages:179 ../Translator/messages:309
 msgid "Macedonian"
-msgstr ""
+msgstr "馬其頓語"
 
 #: ../Translator/messages:181 ../Translator/messages:311
 msgid "Malay"
-msgstr ""
+msgstr "馬來語"
 
 #: ../Translator/messages:183 ../Translator/messages:313
 msgid "Maltese"
-msgstr ""
+msgstr "馬爾他語"
 
 #: ../Translator/messages:185 ../Translator/messages:315
 msgid "Norwegian"
-msgstr ""
+msgstr "挪威語"
 
 #: ../Translator/messages:187 ../Translator/messages:317
 msgid "Persian"
-msgstr ""
+msgstr "波斯語"
 
 #: ../Translator/messages:189 ../Translator/messages:319
 msgid "Polish"
-msgstr ""
+msgstr "波蘭語"
 
 #: ../Translator/messages:191 ../Translator/messages:321
 msgid "Portuguese"
-msgstr ""
+msgstr "葡萄牙語"
 
 #: ../Translator/messages:193 ../Translator/messages:323
 msgid "Romanian"
-msgstr ""
+msgstr "羅馬尼亞語"
 
 #: ../Translator/messages:195 ../Translator/messages:325
 msgid "Russian"
-msgstr ""
+msgstr "俄羅斯語"
 
 #: ../Translator/messages:197 ../Translator/messages:327
 msgid "Serbian"
-msgstr ""
+msgstr "塞爾維亞語"
 
 #: ../Translator/messages:199 ../Translator/messages:329
 msgid "Slovak"
-msgstr ""
+msgstr "斯洛伐克"
 
 #: ../Translator/messages:201 ../Translator/messages:331
 msgid "Slovenian"
-msgstr ""
+msgstr "斯洛維尼亞語"
 
 #: ../Translator/messages:203 ../Translator/messages:333
 msgid "Spanish"
-msgstr ""
+msgstr "西班牙語"
 
 #: ../Translator/messages:205 ../Translator/messages:335
 msgid "Swahili"
-msgstr ""
+msgstr "班圖語"
 
 #: ../Translator/messages:207 ../Translator/messages:337
 msgid "Swedish"
-msgstr ""
+msgstr "瑞典語"
 
 #: ../Translator/messages:209 ../Translator/messages:339
 msgid "Tamil"
-msgstr ""
+msgstr "坦米爾"
 
 #: ../Translator/messages:211 ../Translator/messages:341
 msgid "Telugu"
-msgstr ""
+msgstr "泰盧固語"
 
 #: ../Translator/messages:213 ../Translator/messages:343
 msgid "Thai"
-msgstr ""
+msgstr "泰文"
 
 #: ../Translator/messages:215 ../Translator/messages:345
 msgid "Turkish"
-msgstr ""
+msgstr "土耳其語"
 
 #: ../Translator/messages:217 ../Translator/messages:347
 msgid "Ukrainian"
-msgstr ""
+msgstr "烏克蘭語"
 
 #: ../Translator/messages:219 ../Translator/messages:349
 msgid "Urdu"
-msgstr ""
+msgstr "烏爾都語"
 
 #: ../Translator/messages:221 ../Translator/messages:351
 msgid "Vietnamese"
-msgstr ""
+msgstr "越南語"
 
 #: ../Translator/messages:223 ../Translator/messages:353
 msgid "Welsh"
-msgstr ""
+msgstr "威爾斯語"
 
 #: ../Translator/messages:225 ../Translator/messages:355
 msgid "Yiddish"
-msgstr ""
+msgstr "依地語"
 
 #: ../Translator/messages:227
 msgid "Translate to:"
-msgstr ""
+msgstr "翻譯成："
 
 #: ../Translator/messages:249
 msgid "Simplified Chinese"
-msgstr ""
+msgstr "簡體中文"
 
 #: ../Translator/messages:251
 msgid "Traditional Chinese"
-msgstr ""
+msgstr "繁體中文"
 
 #: ../Translator/messages:357
 msgid "Shortkeys"
-msgstr ""
+msgstr "快捷鍵"
 
 #: ../Translator/messages:359
 msgid "Shortkey to start translating from (read):"
-msgstr ""
+msgstr "開始翻譯的快速鍵（閱讀）："
 
 #: ../Translator/messages:361
 msgid "Shortkey to start translating to (write):"
-msgstr ""
+msgstr "開始翻譯的快速鍵（寫入）："
 
 #: ../Translator/messages:363
 msgid "Dialog"
-msgstr ""
+msgstr "對話框"
 
 #: ../Translator/messages:365
 msgid "In s. Set 0 for an unlimited time."
-msgstr ""
+msgstr "在 s。 設定為 0 表示無限時間。"
 
 #: ../Translator/messages:367
 msgid "Time-length of the result dialog:"
-msgstr ""
+msgstr "結果對話框的時間長度："
 
 #: ../Translator/messages:369
 msgid "Editable text widget?"
-msgstr ""
+msgstr "可編輯文字小工具？"
 
 #: ../Translator/messages:372
 msgid ""
@@ -1988,47 +2059,49 @@ msgid ""
 "language, press Ctrl + Alt + R\n"
 " - If you are writing something in your native language, press Ctrl + Alt + W"
 msgstr ""
+"該小程式可以翻譯單字、完整的句子或網頁。\n"
+"要使用它，請按一下圖示或按快捷鍵，然後輸入文字並按 Enter。 翻譯出來的"
 
 #: ../Translator/messages:374
 msgid "Translator"
-msgstr ""
+msgstr "翻譯者"
 
 #: ../Transmission/Transmission:129
 msgid "day"
-msgstr ""
+msgstr "天"
 
 #: ../Transmission/Transmission:294
 msgid "Transmission is not running, or is not responding to us."
-msgstr ""
+msgstr "傳輸沒有運行，或者沒有響應我們。"
 
 #: ../Transmission/Transmission:301
 msgid ""
 "Couldn't get data from Transmission. You need Transmission 1.9 or above."
-msgstr ""
+msgstr "無法從 Transmission 取得資料。 您需要 Transmission 1.9 或更高版本。"
 
 #: ../Transmission/Transmission:312
 msgid "checking"
-msgstr ""
+msgstr "檢查"
 
 #: ../Transmission/Transmission:314
 msgid "waiting for check"
-msgstr ""
+msgstr "等待檢查"
 
 #: ../Transmission/Transmission:316
 msgid "seeding"
-msgstr ""
+msgstr "播種"
 
 #: ../Transmission/Transmission:332
 msgid "Connected peers:"
-msgstr ""
+msgstr "連接的對等點："
 
 #: ../Transmission/Transmission:453
 msgid "You have to enable the Web client in the Transmisison's settings."
-msgstr ""
+msgstr "您必須在傳輸設定中啟用 Web 用戶端。"
 
 #: ../Transmission/messages:105
 msgid "Remaining time"
-msgstr ""
+msgstr "剩餘時間"
 
 #: ../Transmission/messages:110
 msgid ""
@@ -2039,53 +2112,53 @@ msgid ""
 "<b>Right-click</b> on the icon allows you to pause/start all the torrents.\n"
 "<b>Drop a torrent file</b> on the icon to add it to the list and start "
 "downloading it immediately."
-msgstr ""
+msgstr "此小程式可讓您從 Dock <b>控制傳輸</b>。"
 
 #: ../Twitter/Twitter:118
 msgid "Oh, dear, your timeline is empty :-("
-msgstr ""
+msgstr "哦，親愛的，你的時間線是空的:-("
 
 #: ../Twitter/Twitter:122 ../Twitter/Twitter:197 ../Twitter/Twitter:216
 msgid "Connection problem"
-msgstr ""
+msgstr "連線問題"
 
 #: ../Twitter/Twitter:194
 msgid "Oh, dear, you do not have direct messages :-("
-msgstr ""
+msgstr "哦，親愛的，您沒有直接訊息:-("
 
 #: ../Twitter/Twitter:214
 msgid "Followers"
-msgstr ""
+msgstr "跟隨"
 
 #: ../Twitter/Twitter:214
 msgid "Friends"
-msgstr ""
+msgstr "朋友"
 
 #: ../Twitter/Twitter:214 ../Twitter/Twitter:371
 msgid "Tweets"
-msgstr ""
+msgstr "推文"
 
 #: ../Twitter/Twitter:238
 #, python-format
 msgid "%s, send a tweet"
-msgstr ""
+msgstr "%s，發送推文"
 
 #: ../Twitter/Twitter:240
 #, python-format
 msgid "Your tweet has more than %d characters, please make it shorter"
-msgstr ""
+msgstr "您的推文超過 %d 個字符，請縮短"
 
 #: ../Twitter/Twitter:253
 #, python-format
 msgid ""
 "Problem to send this tweet on %s, I think you already tried to send the same "
 "one few minutes ago"
-msgstr ""
+msgstr "在 %s 上發送此推文時出現問題，我認為您幾分鐘前已嘗試發送相同的推文"
 
 #: ../Twitter/Twitter:257
 #, python-format
 msgid "%s, retweet?"
-msgstr ""
+msgstr "%s，轉發嗎？"
 
 #: ../Twitter/Twitter:271
 msgid ""
@@ -2093,6 +2166,9 @@ msgid ""
 "Right-click -> Add account -> Twitter.\n"
 "Right-click -> Add account -> Identi.ca."
 msgstr ""
+"此小程式支援 Twitter 和 Identi.ca.\n"
+"右鍵 -> 新增帳戶 -> Twitter。\n"
+"右鍵 -> 新增帳戶 -> Identi.ca。"
 
 #: ../Twitter/Twitter:276
 #, python-format
@@ -2100,11 +2176,13 @@ msgid ""
 "The applet needs your nickname, and an authorization\n"
 "that you accept it to connect on your %s account"
 msgstr ""
+"小程式需要您的暱稱和授權\n"
+"您接受它以連接到您的 %s 帳戶"
 
 #: ../Twitter/Twitter:285
 #, python-format
 msgid "What is your %s nickname?"
-msgstr ""
+msgstr "你的 %s 暱稱是什麼？"
 
 #: ../Twitter/Twitter:302
 #, python-format
@@ -2113,6 +2191,8 @@ msgid ""
 "on your browser. As soon as you authorize it, copy the PIN number that will "
 "be shown, and go to the next dialog"
 msgstr ""
+"%s 小程式需要您給予授權。 授權頁面已在您的瀏覽器上開啟。 授權後，複製將顯示"
+"的 PIN 碼，然後轉到下一個對話框"
 
 #: ../Twitter/Twitter:305
 #, python-format
@@ -2121,27 +2201,29 @@ msgid ""
 "access it with your browser. Copy the PIN number that will be shown as soon "
 "as you authorize"
 msgstr ""
+"%s 小程式需要您給予授權。 複製下面的地址並使用瀏覽器存取它。 複製授權後將立即"
+"顯示的 PIN 碼"
 
 #: ../Twitter/Twitter:315
 msgid "Enter the PIN number shown on the authorization page"
-msgstr ""
+msgstr "輸入授權頁面上顯示的 PIN 碼"
 
 #: ../Twitter/Twitter:327
 msgid "Successfully connected with Twitter"
-msgstr ""
+msgstr "已成功連結 Twitter"
 
 #: ../Twitter/Twitter:330
 msgid "Successfully connected with Identi.ca"
-msgstr ""
+msgstr "已成功連線 Identity.ca"
 
 #: ../Twitter/Twitter:347
 msgid "Direct messages"
-msgstr ""
+msgstr "直接訊息"
 
 #: ../Twitter/Twitter:349
 #, python-format
 msgid "New direct messages (%d)"
-msgstr ""
+msgstr "新私訊 (%d)"
 
 #: ../Twitter/Twitter:362
 msgid "Info"
@@ -2150,63 +2232,63 @@ msgstr "資訊"
 #: ../Twitter/Twitter:373
 #, python-format
 msgid "New tweets (%d)"
-msgstr ""
+msgstr "新推文 (%d)"
 
 #: ../Twitter/Twitter:387
 msgid "My tweets"
-msgstr ""
+msgstr "我的推文"
 
 #: ../Twitter/Twitter:405
 msgid "Add account"
-msgstr ""
+msgstr "新增帳號"
 
 #: ../Twitter/Twitter:413
 msgid "Twitter"
-msgstr ""
+msgstr "Twitter"
 
 #: ../Twitter/Twitter:423
 msgid "Identi.ca"
-msgstr ""
+msgstr "Identi.ca"
 
 #: ../Twitter/messages:93
 msgid "Size of the emblem that shows the number of new tweets, and messages:"
-msgstr ""
+msgstr "顯示新推文和訊息數量的標誌大小："
 
 #: ../Twitter/messages:95
 msgid "Small"
-msgstr ""
+msgstr "小"
 
 #: ../Twitter/messages:99
 msgid "Large"
-msgstr ""
+msgstr "大"
 
 #: ../Twitter/messages:103
 msgid "Alert when you receive a new tweet or message?"
-msgstr ""
+msgstr "當您收到新的推文或訊​​息時提醒？"
 
 #: ../Twitter/messages:105
 msgid "Should the applet play a sound as a notification?"
-msgstr ""
+msgstr "小程式是否應該播放聲音作為通知？"
 
 #: ../Twitter/messages:107
 msgid "Play a sound"
-msgstr ""
+msgstr "播放音效"
 
 #: ../Twitter/messages:109
 msgid "Should the applet animate the icon as a notification?"
-msgstr ""
+msgstr "小程式是否應該將圖示動畫化作為通知？"
 
 #: ../Twitter/messages:111
 msgid "Animate the icon"
-msgstr ""
+msgstr "為圖示設定動畫"
 
 #: ../Twitter/messages:113
 msgid "Which animation should apply to the icon?"
-msgstr ""
+msgstr "哪個動畫應該應用於圖示？"
 
 #: ../Twitter/messages:115
 msgid "Choose animation:"
-msgstr ""
+msgstr "選擇動畫："
 
 #: ../Twitter/messages:118
 msgid ""
@@ -2222,10 +2304,19 @@ msgid ""
 "Paste this number on the next dialog box will be shown.\n"
 "The plugin is going to inform that you are successfully connected."
 msgstr ""
+"該小程式支援 Twitter 和 Identi.ca。 您可以發送推文、私訊、查看時間軸、轉發和"
+"回覆私訊。 當有新的推文和定向訊息時，它會提醒您。\n"
+"第一次，您需要選擇要新增的網絡，一次右鍵單擊 -> 新增帳戶 -> Twitter 或 "
+"Identi.ca。 該小程式將詢問您的暱稱和連接網路的授權\n"
+"\n"
+"將會開啟網路授權頁面。\n"
+"授權後，頁面上會顯示一個PIN碼，複製該號碼\n"
+"將此號碼貼到將顯示的下一個對話框中。\n"
+"該插件將通知您已成功連接。"
 
 #: ../WebSearch/messages:91
 msgid "Search engine :"
-msgstr ""
+msgstr "搜尋引擎 :"
 
 #: ../WebSearch/messages:93
 msgid "Google"
@@ -2233,7 +2324,7 @@ msgstr "Google"
 
 #: ../WebSearch/messages:95
 msgid "Bing"
-msgstr ""
+msgstr "Bing"
 
 #: ../WebSearch/messages:97
 msgid "Yahoo!"
@@ -2241,15 +2332,15 @@ msgstr "Yahoo!"
 
 #: ../WebSearch/messages:99
 msgid "Teoma"
-msgstr ""
+msgstr "主題"
 
 #: ../WebSearch/messages:101
 msgid "Youtube"
-msgstr ""
+msgstr "Youtube"
 
 #: ../WebSearch/messages:103
 msgid "Flickr"
-msgstr ""
+msgstr "Flickr"
 
 #: ../WebSearch/messages:105
 msgid "Wikipedia"
@@ -2257,42 +2348,42 @@ msgstr "維基百科"
 
 #: ../WebSearch/messages:107
 msgid "ImageShack"
-msgstr ""
+msgstr "ImageShack"
 
 #: ../WebSearch/messages:109
 msgid "Digg"
-msgstr ""
+msgstr "Digg"
 
 #: ../WebSearch/messages:111
 msgid "in sub-icons."
-msgstr ""
+msgstr "in sub-icons."
 
 #: ../WebSearch/messages:113
 msgid "Maximum number of results shown :"
-msgstr ""
+msgstr "顯示的最大結果數："
 
 #: ../WebSearch/messages:115
 msgid "Show the current page as the icon label ?"
-msgstr ""
+msgstr "將目前頁面顯示為圖標標籤？"
 
 #: ../WebSearch/messages:117
 msgid ""
 "Show the description of the result instead of its URL in the sub-icons ?"
-msgstr ""
+msgstr "在子圖示中顯示結果的描述而不是其 URL ？"
 
 #: ../WebSearch/messages:119
 msgid ""
 "for slow connections, disable will result in significantly faster fetching."
-msgstr ""
+msgstr "對於慢速連接，停用將導致獲取速度顯著加快。"
 
 #: ../WebSearch/messages:121
 msgid ""
 "Enable thumbnail preview for Youtube, Flickr, ImageShack, and Digg searches ?"
-msgstr ""
+msgstr "為 Youtube、Flickr、ImageShack 和 Digg 搜尋啟用縮圖預覽？"
 
 #: ../WebSearch/messages:123
 msgid "Show search engine's logo as the icon on the results?"
-msgstr ""
+msgstr "將搜尋引擎的徽標顯示為結果上的圖示？"
 
 #: ../WebSearch/messages:126
 msgid ""
@@ -2312,10 +2403,25 @@ msgid ""
 "Scroll down to fetch the previous results\n"
 "Left-click on the main icon to show search stats"
 msgstr ""
+"該小程式提供了一些搜尋引擎的接口，例如\n"
+"Google、Bing、Teoma、Yahoo!、Youtube、Flickr、維基百科和 ImageShack。\n"
+"要選擇搜尋引擎，您可以\n"
+"(1)主圖示右鍵->WebSearch->(選擇引擎)\n"
+"(2)右鍵->設定此小程式->設定->搜尋引擎\n"
+"(3) 上下滾動圖示（僅適用於第一次搜尋）\n"
+"您可以透過三種方式進行搜索\n"
+"(1) 在主圖示上按滑鼠中鍵\n"
+"(2) 左鍵點選主圖示（選擇新引擎後立即）\n"
+"輸入您的查詢並驗證。 每個結果將顯示為子圖示。\n"
+"左鍵點選可在預設 Web 瀏覽器中開啟結果\n"
+"中鍵單擊任何結果的子圖示以顯示其描述\n"
+"向上滾動以獲取下一個結果\n"
+"向下滾動以獲取先前的結果\n"
+"左鍵點擊主圖示可顯示搜尋統計訊息"
 
 #: ../WebSearch/messages:128
 msgid "Web Search"
-msgstr ""
+msgstr "網頁搜尋"
 
 #: ../WindowsKiller/messages:92
 msgid ""
@@ -2327,34 +2433,39 @@ msgid ""
 " the command to launch this application, the uptime and the class(es) of "
 "this window."
 msgstr ""
+"WindowsKiller 能夠輕鬆殺死有問題的視窗。\n"
+"左鍵單擊其圖標，然後只需選擇導致麻煩的視窗即可將其殺死。\n"
+"（選擇碼頭以便取消）\n"
+"中鍵單擊將為您提供一些信息，例如 pid、\n"
+"啟動該應用程式的命令、該視窗的正常運作時間和類別。"
 
 #: ../WindowsKiller/messages:94
 msgid "Windows Killer"
-msgstr ""
+msgstr "Windows 殺手"
 
 #: ../Xchat/Xchat:285
 msgid "Channels"
-msgstr ""
+msgstr "頻道"
 
 #: ../Xchat/Xchat:289
 msgid "Switch the channel you'll send message to with the middle-click."
-msgstr ""
+msgstr "透過中鍵點擊切換您要傳送訊息的頻道。"
 
 #: ../Xchat/Xchat:305
 msgid "All channels"
-msgstr ""
+msgstr "所有頻道"
 
 #: ../Xchat/messages:121
 msgid "Silent Mode"
-msgstr ""
+msgstr "靜音模式"
 
 #: ../Xchat/messages:125
 msgid "Enable the silent mode at startup:"
-msgstr ""
+msgstr "啟動時啟用靜音模式："
 
 #: ../Xchat/messages:129
 msgid "Enable the silent mode for a specific channel at startup:"
-msgstr ""
+msgstr "啟動時為特定頻道啟用靜音模式："
 
 #: ../Xchat/messages:132
 msgid ""
@@ -2366,3 +2477,9 @@ msgid ""
 "The icon will also control the window of xchat like a normal application "
 "icon."
 msgstr ""
+"該小程式將 Xchat 和 Xchat-gnome 整合到您的 dock 中。\n"
+"它可以顯示新訊息，\n"
+"您從右鍵選單中選擇一個頻道，\n"
+"點選中鍵寫一則訊息，\n"
+"並透過滾動圖示來顯示訊息歷史記錄\n"
+"該圖標還將像普通應用程式圖標一樣控制 xchat 的視窗。"
